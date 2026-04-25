@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "dataanalyzer"
+version = "0.0.0"
+description = "data analyzer"
+authors = ["Iwan Grozny <renegat@renegat0x0.ddns.net>"]
+license = "GPL3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+linkarchivetools="0.1.39"
