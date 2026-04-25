@@ -286,13 +286,13 @@ all = ["mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.6.2)"]
 
 [[package]]
 name = "linkarchivetools"
-version = "0.1.39"
+version = "0.1.64"
 description = "Link Archive Tools"
 optional = false
 python-versions = "<4.0,>=3.10"
 files = [
-    {file = "linkarchivetools-0.1.39-py3-none-any.whl", hash = "sha256:88cdb1fdb19d8ed51fe5bdefb0bb1afed90a1c8ddeb1d13fa4354cedf5c3a76c"},
-    {file = "linkarchivetools-0.1.39.tar.gz", hash = "sha256:3cb7c886e05ee4397e753ba0917fb2bff9dc72bf9aafa96996cb50ac3e61d8ab"},
+    {file = "linkarchivetools-0.1.64-py3-none-any.whl", hash = "sha256:f18d40733abc881fd68a4a4613494d94307083e19d43253b07fb985b75bff899"},
+    {file = "linkarchivetools-0.1.64.tar.gz", hash = "sha256:11834f0a25300bd4c41b1300e89eb298a21176ca6601c74c60c17e07cb4eef2f"},
 ]
 
 [package.dependencies]
@@ -301,7 +301,7 @@ python-dateutil = ">=2.8.2,<3.0.0"
 requests = ">=2.32.5,<3.0.0"
 sqlalchemy = "*"
 sympy = ">=1.13.2,<2.0.0"
-webtoolkit = ">=0.1.42,<0.2.0"
+webtoolkit = ">=0.1.50,<0.2.0"
 
 [[package]]
 name = "lxml"
@@ -875,4 +875,4 @@ url-cleaner = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "8b5ce03d7d57f635fa08dda5a66c967a469a2cbef953ace41e7b5665ef5592c6"
+content-hash = "04eeff1b9b1507aeb412fedfc9ef1d031db795577b4df032ce483eaeb1783d85"
