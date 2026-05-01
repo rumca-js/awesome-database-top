@@ -2,6 +2,7 @@
 
 Awesome database containing top domains and places.
 
+```
 Table: apikeys, Row count: 0
 Table: applogging, Row count: 16
 Table: backgroundjob, Row count: 7485
@@ -37,6 +38,7 @@ Table: userentryvisithistory, Row count: 5001
 Table: usersearchhistory, Row count: 0
 Table: usertags, Row count: 0
 Table: uservotes, Row count: 0
+```
 
 # TODO
 
