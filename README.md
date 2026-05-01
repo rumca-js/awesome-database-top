@@ -48,3 +48,10 @@ Demo can be found at https://rumca-js.github.io/search?search=
 
 TODO - vacuum?
 clear domains
+
+# awesome databases
+
+ - https://github.com/rumca-js/awesome-database-awesomelists
+ - https://github.com/rumca-js/awesome-database-top
+ - https://github.com/rumca-js/awesome-database-feeds
+ - https://github.com/rumca-js/Internet-Places-Database
