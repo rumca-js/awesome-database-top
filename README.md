@@ -40,6 +40,10 @@ Table: usertags, Row count: 0
 Table: uservotes, Row count: 0
 ```
 
+# Demo
+
+Demo can be found at https://rumca-js.github.io/search?search=
+
 # TODO
 
 TODO - vacuum?
