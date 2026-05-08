@@ -61,7 +61,8 @@ remove-history2:
 	git remote add origin https://github.com/rumca-js/Internet-Places-Database.git
 	git push -u --force origin main
 
-database:
+filter:
 	poetry run python filter.py --db places.db --filter --cleanup
+	rm places.db
 cleanup:
-	poetry run python filter.py --db internet.db --cleanup
+	poetry run python filter.py --db places.db --cleanup

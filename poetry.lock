@@ -286,13 +286,13 @@ all = ["mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.6.2)"]
 
 [[package]]
 name = "linkarchivetools"
-version = "0.1.64"
+version = "0.1.70"
 description = "Link Archive Tools"
 optional = false
 python-versions = "<4.0,>=3.10"
 files = [
-    {file = "linkarchivetools-0.1.64-py3-none-any.whl", hash = "sha256:f18d40733abc881fd68a4a4613494d94307083e19d43253b07fb985b75bff899"},
-    {file = "linkarchivetools-0.1.64.tar.gz", hash = "sha256:11834f0a25300bd4c41b1300e89eb298a21176ca6601c74c60c17e07cb4eef2f"},
+    {file = "linkarchivetools-0.1.70-py3-none-any.whl", hash = "sha256:fef07646f35a39919f908aa344f7323aebfd6bc4c294710a6a61e010e08bd4df"},
+    {file = "linkarchivetools-0.1.70.tar.gz", hash = "sha256:fe81e5108259bf921eb7b1f7a271951e6b75adb35b7dfd4dc35aaf5f56dcec4a"},
 ]
 
 [package.dependencies]
@@ -301,7 +301,7 @@ python-dateutil = ">=2.8.2,<3.0.0"
 requests = ">=2.32.5,<3.0.0"
 sqlalchemy = "*"
 sympy = ">=1.13.2,<2.0.0"
-webtoolkit = ">=0.1.50,<0.2.0"
+webtoolkit = ">=0.1.51,<0.2.0"
 
 [[package]]
 name = "lxml"
@@ -834,13 +834,13 @@ files = [
 
 [[package]]
 name = "urllib3"
-version = "2.6.3"
+version = "2.7.0"
 description = "HTTP library with thread-safe connection pooling, file post, and more."
 optional = false
-python-versions = ">=3.9"
+python-versions = ">=3.10"
 files = [
-    {file = "urllib3-2.6.3-py3-none-any.whl", hash = "sha256:bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4"},
-    {file = "urllib3-2.6.3.tar.gz", hash = "sha256:1b62b6884944a57dbe321509ab94fd4d3b307075e0c2eae991ac71ee15ad38ed"},
+    {file = "urllib3-2.7.0-py3-none-any.whl", hash = "sha256:9fb4c81ebbb1ce9531cce37674bbc6f1360472bc18ca9a553ede278ef7276897"},
+    {file = "urllib3-2.7.0.tar.gz", hash = "sha256:231e0ec3b63ceb14667c67be60f2f2c40a518cb38b03af60abc813da26505f4c"},
 ]
 
 [package.extras]
@@ -851,13 +851,13 @@ zstd = ["backports-zstd (>=1.0.0)"]
 
 [[package]]
 name = "webtoolkit"
-version = "0.1.50"
+version = "0.1.51"
 description = "Web tools and interfaces for Internet data processing."
 optional = false
 python-versions = "<4.0,>=3.9"
 files = [
-    {file = "webtoolkit-0.1.50-py3-none-any.whl", hash = "sha256:7e1bd85f2be1f8e07776b1c688ce5f8824e47efe15b1e6918bc105fce419c244"},
-    {file = "webtoolkit-0.1.50.tar.gz", hash = "sha256:926ae7a5cfb6a98c481cf589947733fff0bc290b38cb8124c17df497b84ea0e5"},
+    {file = "webtoolkit-0.1.51-py3-none-any.whl", hash = "sha256:2955d666fc800545ced77a318ee26b8f7d807f91455d301bf3b641681e517904"},
+    {file = "webtoolkit-0.1.51.tar.gz", hash = "sha256:08c1df06e6317fca9827d17aec4ff976712b6887f79977ac2fd2bd7108c6b01d"},
 ]
 
 [package.dependencies]
@@ -875,4 +875,4 @@ url-cleaner = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "04eeff1b9b1507aeb412fedfc9ef1d031db795577b4df032ce483eaeb1783d85"
+content-hash = "13edacce16403736b67f1847ade5d36dd6ef0b71050c44f85d62b94718d836dc"
