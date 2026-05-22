@@ -19,7 +19,7 @@ Table: entrycompactedtags, Row count: 18907
 Table: entryrules, Row count: 0
 Table: gateway, Row count: 0
 Table: keywords, Row count: 0
-Table: linkdatamodel, Row count: 44933
+Table: linkdatamodel, Row count: 46311
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
 Table: searchview, Row count: 13
