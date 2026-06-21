@@ -62,7 +62,4 @@ remove-history2:
 	git push -u --force origin main
 
 filter:
-	poetry run python filter.py --db places.db --filter --cleanup
-	rm places.db
-cleanup:
-	poetry run python filter.py --db places.db --cleanup
+	poetry run python filter.py --db places.db --truncate-no-users
