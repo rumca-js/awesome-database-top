@@ -21,7 +21,7 @@ def main():
     print("Filtering")
     filter = DbFilter(input_db=args.db,output_db=output_file)
     filter.filter_redundant()
-    filter.trunceate_no_users()
+    filter.truncate_no_users()
     filter.close()
     print("Filtering DONE")
 

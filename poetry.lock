@@ -306,13 +306,13 @@ all = ["mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.6.2)"]
 
 [[package]]
 name = "linkarchivetools"
-version = "0.1.82"
+version = "0.1.83"
 description = "Link Archive Tools"
 optional = false
 python-versions = "<4.0,>=3.10"
 files = [
-    {file = "linkarchivetools-0.1.82-py3-none-any.whl", hash = "sha256:ee0aaeab82228c9782dbf8d00bd4d92ad69aa7aafc36d6706265ea1bf2e623a6"},
-    {file = "linkarchivetools-0.1.82.tar.gz", hash = "sha256:d3c27b81194f79d478201585f1f7f2a3224d0fdc07da0087d4ef859242130931"},
+    {file = "linkarchivetools-0.1.83-py3-none-any.whl", hash = "sha256:f6104489416919c11db890f42cba23581da0b3febf4060fe2778e98754cbab35"},
+    {file = "linkarchivetools-0.1.83.tar.gz", hash = "sha256:64a6bf4c30f1ab01fb3c6807709aa564571b7a5a1f151396b89f801e358e9c62"},
 ]
 
 [package.dependencies]
@@ -890,4 +890,4 @@ url-cleaner = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "544980f5a96fc2b8d43eedff71b2096a5e6cb4e42085c1be461ea9470bd022da"
+content-hash = "b2b8514cb21ef268f64e475f889cc2a005fa5f7bb78f4e210e05385cc0fc7b28"

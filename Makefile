@@ -37,7 +37,10 @@ server:
 summary:
 	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
 
-example-search:
+search:
+	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss
+
+example-search1:
 	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
 example-search2:
 	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social

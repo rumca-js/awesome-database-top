@@ -10,20 +10,23 @@ Table: backgroundjobhistory, Row count: 0
 Table: blockentry, Row count: 0
 Table: blockentrylist, Row count: 0
 Table: browser, Row count: 0
-Table: compactedtags, Row count: 4415
+Table: compactedtags, Row count: 4419
 Table: configurationentry, Row count: 1
 Table: credentials, Row count: 0
 Table: dataexport, Row count: 0
 Table: domains, Row count: 0
-Table: entrycompactedtags, Row count: 19204
+Table: entrycompactedtags, Row count: 19237
 Table: entryrules, Row count: 0
+Table: entrytransitionhistory, Row count: 64
+Table: entryvisithistory, Row count: 69
 Table: gateway, Row count: 0
 Table: keywords, Row count: 0
-Table: linkdatamodel, Row count: 47466
+Table: linkdatamodel, Row count: 47634
 Table: modelfiles, Row count: 0
 Table: readlater, Row count: 0
+Table: searchhistory, Row count: 314
 Table: searchview, Row count: 13
-Table: socialdata, Row count: 36578
+Table: socialdata, Row count: 36586
 Table: sourcecategories, Row count: 0
 Table: sourcedatamodel, Row count: 0
 Table: sourceoperationaldata, Row count: 0
@@ -43,11 +46,6 @@ Table: uservotes, Row count: 0
 # Demo
 
 Demo can be found at https://rumca-js.github.io/search?search=
-
-# TODO
-
-TODO - vacuum?
-clear domains
 
 # awesome databases
 
