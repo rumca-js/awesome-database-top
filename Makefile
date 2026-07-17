@@ -1,5 +1,5 @@
 # Define variables
-ARCHIVE_NAME = internet.zip
+ARCHIVE_NAME = internet.db.zip
 SOURCE_FILE = internet.db
 
 # Declare phony targets
