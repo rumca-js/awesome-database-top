@@ -66,3 +66,4 @@ remove-history2:
 
 filter:
 	poetry run python filter.py --db places.db --truncate-no-users
+	rm places.db
