@@ -58,5 +58,4 @@ remove-history2:
 	git push -u --force origin main
 
 filter:
-	mv places.db internet.db
-	poetry run python filter.py --db internet.db --truncate-no-users
+	poetry run python filter.py --db internet.db --no-users --redundant --search-data --domains --obfuscate
