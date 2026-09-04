@@ -3,44 +3,44 @@
 Awesome database containing top domains and places.
 
 ```
-Table: apikeys, Row count: 0
-Table: applogging, Row count: 0
-Table: backgroundjob, Row count: 0
-Table: backgroundjobhistory, Row count: 0
-Table: blockentry, Row count: 0
-Table: blockentrylist, Row count: 0
-Table: browser, Row count: 0
-Table: compactedtags, Row count: 4438
-Table: configurationentry, Row count: 1
-Table: credentials, Row count: 0
-Table: dataexport, Row count: 0
-Table: domains, Row count: 0
-Table: entrycompactedtags, Row count: 19373
-Table: entryrules, Row count: 0
-Table: entrytransitionhistory, Row count: 370
-Table: entryvisithistory, Row count: 384
-Table: gateway, Row count: 0
-Table: keywords, Row count: 0
-Table: linkdatamodel, Row count: 48572
-Table: modelfiles, Row count: 0
-Table: readlater, Row count: 0
-Table: searchhistory, Row count: 395
-Table: searchview, Row count: 13
-Table: socialdata, Row count: 36695
-Table: sourcecategories, Row count: 0
-Table: sourcedatamodel, Row count: 0
-Table: sourceoperationaldata, Row count: 0
-Table: sourcesubcategories, Row count: 0
-Table: user, Row count: 0
-Table: userbookmarks, Row count: 0
-Table: usercomments, Row count: 0
-Table: usercompactedtags, Row count: 0
-Table: userconfig, Row count: 0
-Table: userentrytransitionhistory, Row count: 0
-Table: userentryvisithistory, Row count: 0
-Table: usersearchhistory, Row count: 0
-Table: usertags, Row count: 0
-Table: uservotes, Row count: 0
+apikeys, count: 0
+applogging, count: 0
+backgroundjob, count: 0
+backgroundjobhistory, count: 0
+blockentry, count: 0
+blockentrylist, count: 28
+browser, count: 0
+compactedtags, count: 4461
+configurationentry, count: 1
+credentials, count: 0
+dataexport, count: 0
+domains, count: 0
+entrycompactedtags, count: 19555
+entryrules, count: 16
+entrytransitionhistory, count: 689
+entryvisithistory, count: 664
+gateway, count: 82
+keywords, count: 0
+linkdatamodel, count: 48897
+modelfiles, count: 0
+readlater, count: 0
+searchhistory, count: 0
+searchview, count: 13
+socialdata, count: 36741
+sourcecategories, count: 14
+sourcedatamodel, count: 55
+sourceoperationaldata, count: 0
+sourcesubcategories, count: 17
+user, count: 0
+userbookmarks, count: 0
+usercomments, count: 0
+usercompactedtags, count: 0
+userconfig, count: 0
+userentrytransitionhistory, count: 0
+userentryvisithistory, count: 0
+usersearchhistory, count: 0
+usertags, count: 0
+uservotes, count: 0
 ```
 
 # Demo

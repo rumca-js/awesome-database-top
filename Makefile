@@ -28,15 +28,15 @@ server:
 	python3 -m http.server 8000
 
 summary:
-	poetry run python dataanalyzer.py --summary --db $(SOURCE_FILE)
+	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
 search-youtube:
-	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss
+	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss
 
 example-search1:
-	poetry run python ./dataanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
+	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
 example-search2:
-	poetry run python ./dataanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social
+	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --title --tags --social
 
 remove-history:
 	git checkout --orphan clean-main
@@ -58,4 +58,4 @@ remove-history2:
 	git push -u --force origin main
 
 filter:
-	poetry run python filter.py --db internet.db --no-users --redundant --search-data --domains --obfuscate
+	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate
