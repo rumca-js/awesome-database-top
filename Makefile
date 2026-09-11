@@ -6,6 +6,10 @@ SOURCE_FILE = internet.db
 .PHONY: zip unzip clean server pack-split unpack-split example-search
 
 # Rule to create a zip archive split into 50MB parts
+
+filter:
+	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate
+
 zip:
 	zip $(ARCHIVE_NAME) $(SOURCE_FILE)
 	echo "Packed $(SOURCE_FILE) into $(ARCHIVE_NAME)"
@@ -22,7 +26,7 @@ unpack-split:
 
 # Clean rule to remove the archive
 clean:
-	rm -f internet.z*
+	rm -f internet*zip
 
 server:
 	python3 -m http.server 8000
@@ -57,5 +61,3 @@ remove-history2:
 	git remote add origin https://github.com/rumca-js/Internet-Places-Database.git
 	git push -u --force origin main
 
-filter:
-	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate
