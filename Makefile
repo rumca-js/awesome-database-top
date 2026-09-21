@@ -35,7 +35,7 @@ summary:
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
 search-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss
+	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss > youtube.txt
 
 example-search1:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
