@@ -34,16 +34,16 @@ server:
 summary: lists
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
-lists: list-youtube list-github list-reddit
+lists: list-youtube list-github list-reddit list-rss-youtube
 list-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social > lists/youtube.txt --order-by page_rating_votes
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social  --order-by page_rating_votes > lists/youtube.txt
 list-github:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --title --social > lists/github.txt --order-by page_rating_votes
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --title --social  --order-by page_rating_votes > lists/github.txt
 list-reddit:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --title --social > lists/reddit.txt --order-by page_rating_votes
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --title --social  --order-by page_rating_votes > lists/reddit.txt
 
 list-rss-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss > lists/rss_youtube.txt --order-by page-rating-votes
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss  --order-by page_rating_votes > lists/rss_youtube.txt
 
 
 
