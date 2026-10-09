@@ -1,481 +1,945 @@
 Starting alchemy
 Starting alchemy DONE
 Searching...
-https://github.com/zyedidia/micro
-https://github.com/ccbikai/sink
-https://github.com/ShareX/ShareX
-https://github.com/iterate-ch/cyberduck
-https://github.com/pycurl/pycurl
-https://github.com/daijro/camoufox
-https://github.com/papra-hq/papra
-https://github.com/magnitudedev/magnitude
-https://github.com/gonzazoid/Ultimatum
-https://github.com/ory/kratos
-https://github.com/martinrotter/rssguard
-https://github.com/7h30th3r0n3/Evil-M5Core2
-https://github.com/MediaHarbor/mediaharbor
-https://github.com/ShalmonAnandas/GUI-Youtube-dl
-https://github.com/tardisx/gropple
-https://github.com/xxcodianxx/youtube-dl-web
-https://github.com/Totonyus/ydl_api_ng
-https://github.com/emberedsky/skydl
-https://github.com/mirror/dd-wrt
-https://github.com/robotframework/robotframework
-https://github.com/DevExpress/testcafe
-https://github.com/ultrafunkamsterdam/nodriver
-https://github.com/drakkan/sftpgo
-https://github.com/TheBigRoomXXL/tinyfeed
-https://github.com/marcopiovanello/yt-dlp-web-ui
-https://github.com/verilator/verilator
-https://github.com/graphdeco-inria/gaussian-splatting
-https://github.com/raivo-otp/ios-application
-https://github.com/webrecorder/browsertrix-crawler
-https://github.com/JosefNemec/Playnite
-https://github.com/avwo/whistle
-https://github.com/lraton/FlopperZiro
-https://github.com/photopea/photopea
-https://github.com/Jstudner/jcorp-nomad
-https://github.com/stretchcloud/deepscrape
-https://github.com/v2fly/v2ray-core
-https://github.com/MM2-0/Kvaesitso
-https://github.com/mandatoryprogrammer/thermoptic
-https://github.com/stanford-oval/WikiChat
-https://github.com/fingerprintjs/fingerprintjs
-https://github.com/Alex313031/Thorium
-https://github.com/hyperbrowserai/HyperAgent
-https://github.com/thelounge/thelounge
-https://github.com/squidowl/halloy
-https://github.com/FaFre/WebLibre
-https://github.com/mozilla-mobile/focus-android
-https://github.com/fork-maintainers/iceraven-browser
-https://github.com/GrapheneOS/Vanadium
-https://github.com/coinbase/x402
-https://github.com/torvalds/linux
-https://github.com/privateersclub/wiki
-https://github.com/ZA1815/caniscrape
-https://github.com/DioxusLabs/blitz
-https://github.com/dillo-browser/dillo
-https://github.com/openscad/openscad
-https://github.com/LibreCAD/LibreCAD
-https://github.com/CadQuery/cadquery
-https://github.com/curv3d/curv
-https://github.com/apache/beam
-https://github.com/Nexus-Mods/Vortex
-https://github.com/gibbed/SteamAchievementManager
-https://github.com/apache/flink
-https://github.com/TBosak/mkfd
-https://github.com/ramensoftware/windhawk
-https://github.com/IsmaelMartinez/teams-for-linux
-https://github.com/ocaml/ocaml
-https://github.com/moazbuilds/CodeMachine-CLI
-https://github.com/Capsize-Games/airunner
-https://github.com/KaijuEngine/kaiju
-https://github.com/The-Pocket/PocketFlow
-https://github.com/openai/evals
-https://github.com/VE3NEA/SkyRoof
-https://github.com/EFForg/rayhunter
-https://github.com/markqvist/Reticulum
-https://github.com/junegunn/fzf
-https://github.com/jawah/niquests
-https://github.com/Facepunch/sbox-public
-https://github.com/nextapps-de/flexsearch
-https://github.com/csmith-project/csmith
-https://github.com/StarTrail-org/PixelRAG
-https://github.com/sxiii/keygen-music
-https://github.com/freqtrade/freqtrade
-https://github.com/scallyw4g/bonsai
-https://github.com/timzhang642/3D-Machine-Learning
-https://github.com/ImKKingshuk/Awesome-CustomROM
-https://github.com/geerlingguy/pi-kiosk
-https://github.com/akuse-app/Akuse
-https://github.com/elvissteinjr/DesktopPlus
-https://github.com/pfalcon/awesome-smarthome
-https://github.com/D4Vinci/Scrapling
-https://github.com/biolds/sosse
-https://github.com/tt-rss/tt-rss
-https://github.com/axios/axios
-https://github.com/solvespace/solvespace
-https://github.com/tw93/Pake
-https://github.com/dogecoin/dogecoin
-https://github.com/bilawalsidhu/gods-eye-view
-https://github.com/jaywcjlove/awesome-mac
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/wasabeef/awesome-android-ui
-https://github.com/github/awesome-copilot
-https://github.com/neilsonnn/image-blaster
-https://github.com/kieraneglin/pinchflat
-https://github.com/stefnotch/downline
-https://github.com/mjl-/mox
-https://github.com/autoscrape-labs/pydoll
-https://github.com/xwmx/nb
-https://github.com/jarun/buku
-https://github.com/toeverything/AFFiNE
-https://github.com/outline/outline
-https://github.com/TriliumNext/Trilium
-https://github.com/crosspoint-reader/crosspoint-reader
-https://github.com/firmai/financial-machine-learning
-https://github.com/georgezouq/awesome-ai-in-finance
-https://github.com/xlang-ai/osworld
-https://github.com/luanti-org/luanti
-https://github.com/dsasmblr/game-hacking
-https://github.com/hoothin/SearchJumper
-https://github.com/rumca-js/Internet-Places-Database
-https://github.com/mustbeperfect/definitive-opensource
-https://github.com/ravendevteam/talon
-https://github.com/hotheadhacker/seedbox-lite
-https://github.com/mhogomchungu/media-downloader
-https://github.com/Rudloff/alltube
-https://github.com/chibicitiberiu/ytsm
-https://github.com/ErrorFlynn/ytdlp-interface
-https://github.com/rumca-js/Django-link-archive
-https://github.com/FiltersHeroes/KADhosts
-https://github.com/FadeMind/hosts.extras
-https://github.com/alecmuffett/real-world-onion-sites
-https://github.com/Vytek/VR-Awesome
-https://github.com/OpenMW/openmw
-https://github.com/zyrouge/symphony
-https://github.com/flaviotordini/minitube
-https://github.com/ayr-ton/awesome-geek-podcasts
-https://github.com/rundeck/rundeck
-https://github.com/LukeSmithxyz/emailwiz
-https://github.com/QuiteRSS/quiterss
-https://github.com/holoiso-eol/holoiso
-https://github.com/mnrmja007/awesome-virtual-reality
-https://github.com/cjroth/awesome-vr
-https://github.com/BrowserWorks/waterfox
-https://github.com/KDE/falkon
-https://github.com/nautobot/nautobot
-https://github.com/jaredthecoder/awesome-vehicle-security
-https://github.com/iDoka/awesome-canbus
-https://github.com/jarun/nnn
-https://github.com/LawnchairLauncher/lawnchair
-https://github.com/projectdiscovery/proxify
-https://github.com/sherlock-project/sherlock
-https://github.com/Lissy93/web-check
-https://github.com/jivoi/awesome-osint
-https://github.com/mxrch/GHunt
-https://github.com/soxoj/maigret
-https://github.com/just-every/code
-https://github.com/sst/opencode
-https://github.com/FFmpeg/FFmpeg
-https://github.com/FreeCAD/FreeCAD
-https://github.com/Snapchat/Valdi
-https://github.com/opencloud-eu/opencloud
-https://github.com/FEX-Emu/FEX
-https://github.com/helm/helm
-https://github.com/ModOrganizer2/modorganizer
-https://github.com/bobeff/open-source-games
-https://github.com/Trilarion/opensourcegames
-https://github.com/dgtlmoon/changedetection.io
-https://github.com/Tongyi-MAI/Z-Image
-https://github.com/smicallef/spiderfoot
-https://github.com/microsoft/BitNet
-https://github.com/pyupio/safety
-https://github.com/knadh/oat
-https://github.com/markqvist/reticulum
-https://github.com/bigcode-project/starcoder2
-https://github.com/meta-llama/llama
-https://github.com/veloren/veloren
-https://github.com/mahmoud/awesome-python-applications
-https://github.com/ellisonleao/magictools
-https://github.com/redhat-et/ripwire
-https://github.com/stalwartlabs/mail-server
-https://github.com/BruceDone/awesome-crawler
-https://github.com/Zyphra/Zonos
-https://github.com/ZDoom/gzdoom
-https://github.com/sandstorm-io/sandstorm
-https://github.com/godotengine/godot
-https://github.com/12britz/awesome-free-models
-https://github.com/Maxstupo/ydl-ui
-https://github.com/database64128/youtube-dl-wpf
-https://github.com/spacecowboy/Feeder
-https://github.com/SuperAB123/Free-Official-Youtube-Content
-https://github.com/gumyr/build123d
-https://github.com/persepolisdm/persepolis
-https://github.com/horahoradev/horahora
-https://github.com/go-rod/rod
-https://github.com/janeczku/calibre-web
-https://github.com/thedevs-network/kutt
-https://github.com/YOURLS/YOURLS
-https://github.com/Lightricks/LTX-2
-https://github.com/refactoringhq/tolaria
-https://github.com/infinition/Bjorn
-https://github.com/jellyfin/jellyfin-kodi
-https://github.com/IceWhaleTech/ZimaOS
-https://github.com/Kovah/LinkAce
-https://github.com/plausible/analytics
-https://github.com/allinurl/goaccess
-https://github.com/OHF-Voice/piper1-gpl
-https://github.com/browseros-ai/BrowserOS
-https://github.com/rshipp/awesome-malware-analysis
-https://github.com/praydog/UEVR
-https://github.com/SpotX-Official/SpotX
-https://github.com/atom0s/Steamless
-https://github.com/ares-emulator/ares
-https://github.com/kannagi0303/yt-dlp-gui
-https://github.com/tubearchivist/tubearchivist
-https://github.com/axcore/tartube
-https://github.com/bbilly1/tubearchivist
-https://github.com/Tzahi12345/YoutubeDL-Material
-https://github.com/chaitin/SafeLine
-https://github.com/DandelionSprout/adfilt
-https://github.com/gitroomhq/postiz-app
-https://github.com/zotify-dev/zotify
-https://github.com/PyPSA/pypsa-eur
-https://github.com/louislam/dockge
-https://github.com/mealie-recipes/mealie
-https://github.com/yourselfhosted/slash
-https://github.com/theotherp/nzbhydra2
-https://github.com/Piwigo/Piwigo
-https://github.com/M66B/FairEmail
-https://github.com/mailpile/Mailpile
-https://github.com/thunderbird/thunderbird-android
-https://github.com/openwrt/openwrt
-https://github.com/explainX/explainx
-https://github.com/Alex-Linhares/FARGonautica
-https://github.com/benedekrozemberczki/awesome-graph-classification
-https://github.com/benedekrozemberczki/awesome-community-detection
-https://github.com/benedekrozemberczki/awesome-decision-tree-papers
-https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers
-https://github.com/benedekrozemberczki/awesome-fraud-detection-papers
-https://github.com/crypdick/awesome-neural-art
-https://github.com/mamedev/mame
-https://github.com/vxunderground/MalwareSourceCode
-https://github.com/ytisf/theZoo
-https://github.com/Team-xManager/xManager
-https://github.com/ImranR98/Obtainium
-https://github.com/riscv
-https://github.com/tayllan/awesome-algorithms
-https://github.com/rossant/awesome-math
-https://github.com/igorbarinov/awesome-bitcoin
-https://github.com/uazo/cromite
-https://github.com/bromite/bromite
-https://github.com/jmbannon/ytdl-sub
-https://github.com/mozilla/readability
-https://github.com/cryptpad/cryptpad
-https://github.com/browser-use/web-ui
-https://github.com/mickael-kerjean/filestash
-https://github.com/plenaryapp/awesome-rss-feeds
-https://github.com/FreshRSS/FreshRSS
-https://github.com/beemdevelopment/Aegis
-https://github.com/Yubico/yubioath-flutter
-https://github.com/g1879/DrissionPage
-https://github.com/NaiboWang/EasySpider
-https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
-https://github.com/PaddlePaddle/PaddleOCR
-https://github.com/siyuan-note/siyuan
-https://github.com/hiroi-sora/Umi-OCR
-https://github.com/atlas-engineer/nyxt
-https://github.com/lightpanda-io/browser
-https://github.com/JStumpp/awesome-android
-https://github.com/netbox-community/netbox
-https://github.com/docker/awesome-compose
-https://github.com/microsoft/ProcMon-for-Linux
-https://github.com/mehdihadeli/awesome-software-architecture
-https://github.com/sissbruecker/linkding
-https://github.com/goniszewski/grimoire
-https://github.com/lwthiker/curl-impersonate
-https://github.com/mitmproxy/mitmproxy
-https://github.com/timelinize/timelinize
-https://github.com/Fmstrat/winapps
-https://github.com/TibixDev/winboat
-https://github.com/rybbit-io/rybbit
-https://github.com/umami-software/umami
-https://github.com/servo/servo
-https://github.com/mwmbl/mwmbl
-https://github.com/ggml-org/whisper.cpp
-https://github.com/beetbox/beets
-https://github.com/apache/hadoop
-https://github.com/cloudreve/cloudreve
-https://github.com/Homebrew/brew
-https://github.com/ValveSoftware/Proton
-https://github.com/asciimoo/omnom
-https://github.com/docling-project/docling
-https://github.com/permissionlesstech/bitchat
-https://github.com/imputnet/helium
-https://github.com/meshtastic/firmware
-https://github.com/recloudstream/cloudstream
-https://github.com/black-forest-labs/flux
-https://github.com/PyCQA/bandit
-https://github.com/twbs/bootstrap
-https://github.com/webmin/webmin
-https://github.com/cockpit-project/cockpit
-https://github.com/BerriAI/litellm
-https://github.com/ultraworkers/claw-code
-https://github.com/microsoft/markitdown
-https://github.com/cryptomator/cryptomator
-https://github.com/asciimoo/hister
-https://github.com/fastlane/fastlane
-https://github.com/pear-devs/pear-desktop
-https://github.com/onyx-dot-app/onyx
-https://github.com/zai-org/GLM-4.5
-https://github.com/meta-llama/llama3
-https://github.com/deepseek-ai/deepseek-harness
-https://github.com/zedeus/nitter
-https://github.com/SenteLabsAI/OpenExecutive
-https://github.com/bitcoin/bitcoin
-https://github.com/monero-project/monero
-https://github.com/mifi/lossless-cut
-https://github.com/SPlayer-Dev/SPlayer-Next
-https://github.com/schollz/croc
-https://github.com/schlagmichdoch/pairdrop
-https://github.com/Kavex/GameDev-Resources
-https://github.com/yjeanrenaud/yj_nearbyglasses
-https://github.com/MorpheApp/morphe-manager
-https://github.com/paperclipai/paperclip
-https://github.com/Billionmail/BillionMail
-https://github.com/simplifaisoul/osiris
-https://github.com/lorien/awesome-web-scraping
-https://github.com/StefanLobbenmeier/youtube-dl-gui
-https://github.com/meeb/tubesync
-https://github.com/qutebrowser/qutebrowser
-https://github.com/docker-mailserver/docker-mailserver
-https://github.com/EbookFoundation/free-programming-books
-https://github.com/0x192/universal-android-debloater
-https://github.com/IceWhaleTech/CasaOS
-https://github.com/ultrafunkamsterdam/undetected-chromedriver
-https://github.com/photoview/photoview
-https://github.com/ytdl-org/youtube-dl
-https://github.com/papers-we-love/papers-we-love
-https://github.com/CPLUSPLUS
-https://github.com/alexta69/metube
-https://github.com/JunkFood02/Seal
-https://github.com/deniscerri/ytdlnis
-https://github.com/louislam/uptime-kuma
-https://github.com/fatedier/frp
-https://github.com/BrowserBox/BrowserBox
-https://github.com/lexiforest/curl_cffi
-https://github.com/HenryQW/Awesome-TTRSS
-https://github.com/ValveSoftware/openvr
-https://github.com/tailscale-dev/docker-mod
-https://github.com/LadybirdBrowser/ladybird
-https://github.com/aimacode
-https://github.com/guillaume-chevalier/awesome-deep-learning-resources
-https://github.com/massgravel/Microsoft-Activation-Scripts
-https://github.com/zen-browser/desktop
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/swisskyrepo/PayloadsAllTheThings
-https://github.com/home-assistant/operating-system
-https://github.com/ReVanced/revanced-manager
-https://github.com/revanced
-https://github.com/LibreTranslate/LibreTranslate
-https://github.com/th-ch/youtube-music
-https://github.com/neovim/neovim
-https://github.com/helix-editor/helix
-https://github.com/JanVanRyswyck/awesome-talks
-https://github.com/syncthing/syncthing
-https://github.com/wallabag/wallabag
-https://github.com/omnivore-app/omnivore
-https://github.com/ansible/ansible
-https://github.com/ansible/awx
-https://github.com/tailscale/tailscale
-https://github.com/karakeep-app/karakeep
-https://github.com/ArchiveBox/ArchiveBox
-https://github.com/iipc/awesome-web-archiving
-https://github.com/unclecode/crawl4ai
-https://github.com/hydralauncher/hydra
-https://github.com/linkwarden/linkwarden
-https://github.com/awesome-foss/awesome-sysadmin
-https://github.com/brave/brave-browser
-https://github.com/mozilla-firefox/firefox
-https://github.com/omkarcloud/botasaurus
-https://github.com/go-shiori/shiori
-https://github.com/ventoy/Ventoy
-https://github.com/openai/codex
-https://github.com/ItzCrazyKns/Perplexica
-https://github.com/simstudioai/sim
-https://github.com/fmhy/edit
-https://github.com/cjpais/Handy
-https://github.com/QwenLM/Qwen3-TTS
-https://github.com/openai/whisper
-https://github.com/coqui-ai/TTS
-https://github.com/MoonshotAI/Kimi-K2
-https://github.com/benbusby/whoogle-search
-https://github.com/meta-llama/llama-models
-https://github.com/google-deepmind/gemma
-https://github.com/ggml-org/llama.cpp
-https://github.com/google-antigravity/antigravity-cli
-https://github.com/pixlcore/xyops
-https://github.com/offa/android-foss
-https://github.com/jstumpp/awesome-android
-https://github.com/bayandin/awesome-awesomeness
-https://github.com/zhayujie/CowAgent
-https://github.com/nexu-io/open-design
-https://github.com/futo-org/grayjay-android
-https://github.com/glanceapp/glance
-https://github.com/LibrePhotos/librephotos
-https://github.com/ente-io/ente
-https://github.com/HeyPuter/puter
-https://github.com/KRTirtho/spotube
-https://github.com/KurtBestor/Hitomi-Downloader
-https://github.com/TeamNewPipe/NewPipe
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist
-https://github.com/yuliskov/SmartTube
-https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/jlevy/the-art-of-command-line
-https://github.com/agarrharr/awesome-cli-apps
-https://github.com/fffaraz/awesome-cpp
-https://github.com/yang991178/fluent-reader-lite
-https://github.com/badmojr/1Hosts
-https://github.com/usememos/memos
-https://github.com/peass-ng/PEASS-ng
-https://github.com/immich-app/immich
-https://github.com/nylas/nylas-mail
-https://github.com/josephmisiti/awesome-machine-learning
-https://github.com/veggiemonk/awesome-docker
-https://github.com/jnv/lists
-https://github.com/microsoft/playwright-python
-https://github.com/SeleniumHQ/selenium
-https://github.com/jesseduffield/lazydocker
-https://github.com/browser-use/browser-use
-https://github.com/subnub/myDrive
-https://github.com/balena-io/etcher
-https://github.com/internetarchive/heritrix3
-https://github.com/tesseract-ocr/tesseract
-https://github.com/seleniumbase/SeleniumBase
-https://github.com/apify/crawlee
-https://github.com/apify/crawlee-python
-https://github.com/encode/httpx
-https://github.com/n8n-io/n8n
-https://github.com/QwenLM/Qwen
-https://github.com/trending?since=monthly
-https://github.com/Crosstalk-Solutions/project-nomad
-https://github.com/qdrant/qdrant
-https://github.com/opensearch-project/OpenSearch
-https://github.com/gradle/gradle
-https://github.com/TryGhost/Ghost
-https://github.com/deepseek-ai/DeepSeek-R1
-https://github.com/MoonshotAI/Kimi-K3
-https://github.com/audacity/audacity
-https://github.com/mpv-player/mpv
-https://github.com/p-e-w/heretic
-https://github.com/Panniantong/agent-reach
-https://github.com/nousresearch/hermes-agent
-https://github.com/yt-dlp/yt-dlp
-https://github.com/sindresorhus/awesome
-https://github.com/vinta/awesome-python
-https://github.com/awesome-selfhosted/awesome-selfhosted
-https://github.com/gorhill/uBlock
-https://github.com/owainlewis/awesome-artificial-intelligence
-https://github.com/FreeTubeApp/FreeTube
-https://github.com/AboutRSS/ALL-about-RSS
-https://github.com/deepseek-ai/DeepSeek-V3
-https://github.com/anthropics/claude-code
-https://github.com/google-gemini/gemini-cli
-https://github.com/obsproject/obs-studio
-https://github.com/qwibitai/nanoclaw
-https://github.com/elastic/elasticsearch
-https://github.com/edoardottt/awesome-hacker-search-engines
-https://github.com/Aider-AI/aider
-https://github.com/odysseus-dev/odysseus
-https://github.com/zai-org/ZCode
-https://github.com/HKUDS/OpenHarness
-https://github.com/anomalyco/opencode
-https://github.com/searxng/searxng
-https://github.com/f/awesome-chatgpt-prompts
-https://github.com/trimstray/the-book-of-secret-knowledge
-https://github.com/rustdesk/rustdesk
-https://github.com/scrapy/scrapy
-https://github.com/ollama/ollama
-https://github.com/openclaw/openclaw
-Time: 0:0
+https://github.com/zyedidia/micro GitHub - zyedidia/micro: A modern and intuitive terminal-based text editor
+https://github.com/ccbikai/sink GitHub - ccbikai/Sink: ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+https://github.com/ShareX/ShareX GitHub - ShareX/ShareX: ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+S:36432
+https://github.com/iterate-ch/cyberduck GitHub - iterate-ch/cyberduck: Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+S:4814
+https://github.com/pycurl/pycurl GitHub - pycurl/pycurl: PycURL - Python interface to libcurl
+https://github.com/daijro/camoufox GitHub - daijro/camoufox: 🦊 Anti-detect browser
+https://github.com/papra-hq/papra GitHub - papra-hq/papra: The minimalistic document archiving platform.
+https://github.com/magnitudedev/magnitude GitHub - magnitudedev/magnitude: The AI browser automation framework
+https://github.com/gonzazoid/Ultimatum GitHub - gonzazoid/Ultimatum: Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
+S:862
+https://github.com/ory/kratos GitHub - ory/kratos: Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
+S:12583
+https://github.com/martinrotter/rssguard GitHub - martinrotter/rssguard: Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
+https://github.com/7h30th3r0n3/Evil-M5Core2 GitHub - 7h30th3r0n3/Evil-M5Core2: Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
+S:2654
+https://github.com/MediaHarbor/mediaharbor GitHub - MediaHarbor/mediaharbor: Cross-platform MediaHarbor
+S:221
+https://github.com/ShalmonAnandas/GUI-Youtube-dl GitHub - ShalmonAnandas/Gui-Youtube-dl: A cross platform GUI for youtube-dl written entirely in python using the WX library.
+S:138
+https://github.com/tardisx/gropple GitHub - tardisx/gropple: Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
+S:81
+https://github.com/xxcodianxx/youtube-dl-web GitHub - xcodian/youtube-dl-web: A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+S:317
+https://github.com/Totonyus/ydl_api_ng GitHub - Totonyus/ydl_api_ng
+S:240
+https://github.com/emberedsky/skydl GitHub - emberedsky/skydl
+S:16
+https://github.com/mirror/dd-wrt GitHub - mirror/dd-wrt: DD-WRT Subversion mirror.
+S:607
+https://github.com/robotframework/robotframework GitHub - robotframework/robotframework: Generic automation framework for acceptance testing and RPA
+S:11911
+https://github.com/DevExpress/testcafe GitHub - DevExpress/testcafe: A Node.js tool to automate end-to-end web testing.
+S:9907
+https://github.com/ultrafunkamsterdam/nodriver GitHub - ultrafunkamsterdam/nodriver: Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha
+S:4774
+https://github.com/drakkan/sftpgo GitHub - drakkan/sftpgo: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+S:10946
+https://github.com/TheBigRoomXXL/tinyfeed GitHub - TheBigRoomXXL/tinyfeed: Generate a static HTML page from a collection of feeds wtih a simple CLI tool
+S:378
+https://github.com/marcopiovanello/yt-dlp-web-ui GitHub - marcopiovanello/yt-dlp-web-ui: A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+S:2587
+https://github.com/verilator/verilator GitHub - verilator/verilator: Verilator open-source SystemVerilog simulator and lint system
+S:3942
+https://github.com/graphdeco-inria/gaussian-splatting GitHub - graphdeco-inria/gaussian-splatting: Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+S:23930
+https://github.com/raivo-otp/ios-application GitHub - raivo-otp/ios-application: A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
+S:939
+https://github.com/webrecorder/browsertrix-crawler GitHub - webrecorder/browsertrix-crawler: Run a high-fidelity browser-based web archiving crawler in a single Docker container
+S:870
+https://github.com/JosefNemec/Playnite GitHub - JosefNemec/Playnite: Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+S:14044
+https://github.com/avwo/whistle GitHub - avwo/whistle: HTTP, HTTP2, HTTPS, Websocket debugging proxy
+S:15704
+https://github.com/lraton/FlopperZiro GitHub - lraton/FlopperZiro: A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
+S:2076
+https://github.com/photopea/photopea GitHub - photopea/photopea: Photopea is online image editor
+S:8443
+https://github.com/Jstudner/jcorp-nomad GitHub - Jstudner/jcorp-nomad: An extremely compact offline media server for Movies, Shows, Books, and Music.
+S:1231
+https://github.com/stretchcloud/deepscrape GitHub - stretchcloud/deepscrape
+S:320
+https://github.com/v2fly/v2ray-core GitHub - v2fly/v2ray-core: A platform for building proxies to bypass network restrictions.
+S:34576
+https://github.com/MM2-0/Kvaesitso GitHub - MM2-0/Kvaesitso: A search-focused Android launcher
+S:3652
+https://github.com/mandatoryprogrammer/thermoptic GitHub - mandatoryprogrammer/thermoptic: A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.
+S:544
+https://github.com/stanford-oval/WikiChat GitHub - stanford-oval/WikiChat: WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.
+S:1518
+https://github.com/fingerprintjs/fingerprintjs GitHub - fingerprintjs/fingerprintjs: The most advanced browser fingerprinting library.
+S:25568
+https://github.com/Alex313031/Thorium GitHub - Alex313031/thorium: Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+S:7512
+https://github.com/hyperbrowserai/HyperAgent GitHub - hyperbrowserai/HyperAgent: AI Browser Automation
+S:1572
+https://github.com/thelounge/thelounge GitHub - thelounge/thelounge: 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+S:6333
+https://github.com/squidowl/halloy GitHub - squidowl/halloy: IRC application written in Rust
+S:4487
+https://github.com/FaFre/WebLibre GitHub - FaFre/WebLibre: Browse privately, search locally. Organize tabs, block tracking, and use Tor.
+S:984
+https://github.com/mozilla-mobile/focus-android GitHub - mozilla-mobile/focus-android: ⚠️ Firefox Focus (Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
+S:2088
+https://github.com/fork-maintainers/iceraven-browser GitHub - fork-maintainers/iceraven-browser: Iceraven Browser
+S:6472
+https://github.com/GrapheneOS/Vanadium GitHub - GrapheneOS/Vanadium: Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+S:2156
+https://github.com/coinbase/x402 GitHub - coinbase/x402: A payments protocol for the internet. Built on HTTP.
+S:157
+https://github.com/torvalds/linux GitHub - torvalds/linux: Linux kernel source tree
+S:249454
+https://github.com/privateersclub/wiki GitHub - privateersclub/wiki: 🌊 The most comprehensive game piracy wiki on the internet.
+S:1036
+https://github.com/ZA1815/caniscrape GitHub - ZA1815/caniscrape
+S:355
+https://github.com/DioxusLabs/blitz GitHub - DioxusLabs/blitz: A radically modular HTML/CSS rendering engine
+S:4159
+https://github.com/dillo-browser/dillo GitHub - dillo-browser/dillo: Dillo, a multi-platform graphical web browser
+S:1164
+https://github.com/openscad/openscad GitHub - openscad/openscad: OpenSCAD - The Programmers Solid 3D CAD Modeller
+S:10233
+https://github.com/LibreCAD/LibreCAD GitHub - LibreCAD/LibreCAD: LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
+S:6388
+https://github.com/CadQuery/cadquery GitHub - CadQuery/cadquery: A python parametric CAD scripting framework based on OCCT
+S:5792
+https://github.com/curv3d/curv GitHub - curv3d/curv: a language for making art using mathematics
+S:1165
+https://github.com/apache/beam GitHub - apache/beam: Apache Beam is a unified programming model for Batch and Streaming data processing.
+S:8364
+https://github.com/Nexus-Mods/Vortex GitHub - Nexus-Mods/Vortex: Vortex Development
+S:1126
+https://github.com/gibbed/SteamAchievementManager GitHub - gibbed/SteamAchievementManager: A manager for game achievements in Steam.
+S:7395
+https://github.com/apache/flink GitHub - apache/flink: Apache Flink
+S:25479
+https://github.com/TBosak/mkfd GitHub - TBosak/mkfd: RSS feed builder created with Bun🥖 and Hono🔥- builds from webpages, email folders, and REST API calls.
+S:201
+https://github.com/ramensoftware/windhawk GitHub - ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/
+S:5670
+https://github.com/IsmaelMartinez/teams-for-linux GitHub - IsmaelMartinez/teams-for-linux: Unofficial Microsoft Teams for Linux client
+S:4051
+https://github.com/ocaml/ocaml GitHub - ocaml/ocaml: The core OCaml system: compilers, runtime system, base libraries
+S:6049
+https://github.com/moazbuilds/CodeMachine-CLI GitHub - moazbuilds/CodeMachine-CLI: CLI-native orchestration engine for autonomous workflows and production-ready code. ⚡️
+S:1743
+https://github.com/Capsize-Games/airunner GitHub - Capsize-Games/airunner: Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
+S:1260
+https://github.com/KaijuEngine/kaiju GitHub - KaijuEngine/kaiju: General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+S:4708
+https://github.com/The-Pocket/PocketFlow GitHub - The-Pocket/PocketFlow: Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+S:11181
+https://github.com/openai/evals GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+S:19477
+https://github.com/VE3NEA/SkyRoof GitHub - VE3NEA/SkyRoof: A Windows app for Hams and satellite enthusiasts
+S:253
+https://github.com/EFForg/rayhunter GitHub - EFForg/rayhunter: Rust tool to detect cell site simulators on an orbic mobile hotspot
+S:5856
+https://github.com/markqvist/Reticulum GitHub - markqvist/Reticulum: The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+S:7301
+https://github.com/junegunn/fzf GitHub - junegunn/fzf: :cherry_blossom: A command-line fuzzy finder
+S:83193
+https://github.com/jawah/niquests GitHub - jawah/niquests: Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
+S:2469
+https://github.com/Facepunch/sbox-public GitHub - Facepunch/sbox-public: s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+S:6470
+https://github.com/nextapps-de/flexsearch GitHub - nextapps-de/flexsearch: Next-generation full-text search library for Browser and Node.js
+S:13795
+https://github.com/csmith-project/csmith GitHub - csmith-project/csmith: Csmith, a random generator of C programs
+S:1243
+https://github.com/StarTrail-org/PixelRAG GitHub - StarTrail-org/PixelRAG: The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
+S:10091
+https://github.com/sxiii/keygen-music GitHub - sxiii/keygen-music: Keygen Music Opensource Radio Repository
+S:122
+https://github.com/freqtrade/freqtrade GitHub - freqtrade/freqtrade: Free, open source crypto trading bot
+S:53945
+https://github.com/scallyw4g/bonsai GitHub - scallyw4g/bonsai: The procedural generation voxel engine
+S:1287
+https://github.com/timzhang642/3D-Machine-Learning GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning
+S:10198
+https://github.com/ImKKingshuk/Awesome-CustomROM GitHub - ImKKingshuk/Awesome-CustomROM: Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
+S:266
+https://github.com/geerlingguy/pi-kiosk GitHub - geerlingguy/pi-kiosk: A simple Raspberry Pi Kiosk app
+S:697
+https://github.com/akuse-app/Akuse GitHub - akuse-app/akuse: 🌸 Simple and easy to use anime streaming desktop app without ads.
+S:1140
+https://github.com/elvissteinjr/DesktopPlus GitHub - elvissteinjr/DesktopPlus: Advanced desktop access for OpenVR
+S:580
+https://github.com/pfalcon/awesome-smarthome GitHub - pfalcon/awesome-smarthome: Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
+S:562
+https://github.com/D4Vinci/Scrapling GitHub - D4Vinci/Scrapling: 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+S:82349
+https://github.com/biolds/sosse GitHub - biolds/sosse: Selenium Open Source Search Engine & crawler
+S:411
+https://github.com/tt-rss/tt-rss GitHub - tt-rss/tt-rss: A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
+S:843
+https://github.com/axios/axios GitHub - axios/axios: Promise based HTTP client for the browser and node.js
+S:109212
+https://github.com/solvespace/solvespace GitHub - solvespace/solvespace: Parametric 2d/3d CAD
+S:4165
+https://github.com/tw93/Pake GitHub - tw93/Pake: 🤱🏻 Turn any webpage into a desktop app with one command.
+S:61711
+https://github.com/dogecoin/dogecoin GitHub - dogecoin/dogecoin: very currency
+S:15260
+https://github.com/bilawalsidhu/gods-eye-view GitHub - bilawalsidhu/gods-eye-view: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+S:36222
+https://github.com/jaywcjlove/awesome-mac GitHub - jaywcjlove/awesome-mac:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+S:115053
+https://github.com/MaximAbramchuck/awesome-interview-questions GitHub - DopplerHQ/awesome-interview-questions: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!
+S:84712
+https://github.com/wasabeef/awesome-android-ui NO TITLE
+S:57719
+https://github.com/github/awesome-copilot NO TITLE
+S:39387
+https://github.com/neilsonnn/image-blaster GitHub - neilsonnn/image-blaster: An image-to-world skillset for Claude.
+S:7847
+https://github.com/kieraneglin/pinchflat GitHub - kieraneglin/pinchflat: Your next YouTube media manager
+S:5361
+https://github.com/stefnotch/downline GitHub - stefnotch/downline: Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
+S:126
+https://github.com/mjl-/mox GitHub - mjl-/mox: modern full-featured open source secure mail server for low-maintenance self-hosted email
+S:5860
+https://github.com/autoscrape-labs/pydoll GitHub - autoscrape-labs/pydoll: Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
+S:7094
+https://github.com/xwmx/nb GitHub - xwmx/nb: CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+S:8413
+https://github.com/jarun/buku GitHub - jarun/buku: :bookmark: Personal mini-web in text
+S:7208
+https://github.com/toeverything/AFFiNE GitHub - toeverything/AFFiNE: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+S:72942
+https://github.com/outline/outline GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+S:40696
+https://github.com/TriliumNext/Trilium GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes
+S:37970
+https://github.com/crosspoint-reader/crosspoint-reader GitHub - crosspoint-reader/crosspoint-reader: Firmware for the Xteink X3 and X4 e-readers
+S:8038
+https://github.com/firmai/financial-machine-learning GitHub - firmai/financial-machine-learning: A curated list of practical financial machine learning tools and applications.
+S:8773
+https://github.com/georgezouq/awesome-ai-in-finance GitHub - georgezouq/awesome-ai-in-finance: 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+S:6470
+https://github.com/xlang-ai/osworld GitHub - xlang-ai/OSWorld: [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+S:3124
+https://github.com/luanti-org/luanti GitHub - luanti-org/luanti: Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+S:13597
+https://github.com/dsasmblr/game-hacking GitHub - dsasmblr/game-hacking: Tutorials, tools, and more as related to reverse engineering video games.
+S:5582
+https://github.com/hoothin/SearchJumper GitHub - hoothin/SearchJumper: Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP).
+S:1158
+https://github.com/rumca-js/Internet-Places-Database GitHub - rumca-js/Internet-Places-Database: Database of Internet places. Mostly domains
+S:459
+https://github.com/mustbeperfect/definitive-opensource GitHub - mustbeperfect/definitive-opensource: The definitive list of open source.
+S:3412
+https://github.com/ravendevteam/talon GitHub - ravendevteam/talon: Simple utility to debloat Windows in 2 clicks.
+S:1953
+https://github.com/hotheadhacker/seedbox-lite GitHub - hotheadhacker/seedbox-lite: A light-weight torrent media center at one place.
+S:4534
+https://github.com/mhogomchungu/media-downloader GitHub - mhogomchungu/media-downloader: Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+S:4992
+https://github.com/Rudloff/alltube GitHub - Rudloff/alltube: Web GUI for youtube-dl
+S:2965
+https://github.com/chibicitiberiu/ytsm GitHub - chibicitiberiu/ytsm: Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
+S:321
+https://github.com/ErrorFlynn/ytdlp-interface GitHub - ErrorFlynn/ytdlp-interface: Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
+S:3296
+https://github.com/rumca-js/Django-link-archive GitHub - rumca-js/Django-link-archive: Self-hostable link archive
+S:147
+https://github.com/FiltersHeroes/KADhosts GitHub - FiltersHeroes/KADhosts: Wersja hosts, PiHole, dnsmasq, domenowa (Forti Guard) filtrów KAD
+S:62
+https://github.com/FadeMind/hosts.extras GitHub - FadeMind/hosts.extras: Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]
+S:226
+https://github.com/alecmuffett/real-world-onion-sites GitHub - alecmuffett/real-world-onion-sites: This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
+S:2231
+https://github.com/Vytek/VR-Awesome GitHub - Vytek/VR-Awesome: VR Awesome List
+S:501
+https://github.com/OpenMW/openmw GitHub - OpenMW/openmw: OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+S:6579
+https://github.com/zyrouge/symphony GitHub - zyrouge/symphony: 🎵 Lightweight, elegant music player for Android 9+.
+S:1701
+https://github.com/flaviotordini/minitube GitHub - flaviotordini/minitube: YouTube app
+S:394
+https://github.com/ayr-ton/awesome-geek-podcasts GitHub - ayr-ton/awesome-geek-podcasts: A curated list of podcasts we like to listen to.
+S:639
+https://github.com/rundeck/rundeck GitHub - rundeck/rundeck: Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+S:6311
+https://github.com/LukeSmithxyz/emailwiz GitHub - LukeSmithxyz/emailwiz: Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
+S:2166
+https://github.com/QuiteRSS/quiterss GitHub - QuiteRSS/quiterss: Free news feeds reader
+S:1088
+https://github.com/holoiso-eol/holoiso GitHub - holoiso-eol/holoiso: SteamOS 3 (Holo) archiso configuration
+S:5183
+https://github.com/mnrmja007/awesome-virtual-reality GitHub - mnrmja007/awesome-virtual-reality: A curated list of VR resources
+S:54
+https://github.com/cjroth/awesome-vr GitHub - cjroth/awesome-vr: An awesome curated list of Virtual Reality (VR) things.
+S:65
+https://github.com/BrowserWorks/waterfox GitHub - BrowserWorks/waterfox: The official Waterfox 💧 source code repository
+S:6310
+https://github.com/KDE/falkon GitHub - KDE/falkon: Cross-platform Qt-based web browser
+S:484
+https://github.com/nautobot/nautobot GitHub - nautobot/nautobot: Network Source of Truth & Network Automation Platform
+S:1593
+https://github.com/jaredthecoder/awesome-vehicle-security GitHub - jaredthecoder/awesome-vehicle-security: 🚗  A curated list of resources for learning about vehicle security and car hacking.
+S:3552
+https://github.com/iDoka/awesome-canbus GitHub - iDoka/awesome-canbus: :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
+S:3470
+https://github.com/jarun/nnn GitHub - jarun/nnn: n³ The unorthodox terminal file manager
+S:21897
+https://github.com/LawnchairLauncher/lawnchair GitHub - LawnchairLauncher/lawnchair: No clever tagline needed.
+S:13550
+https://github.com/projectdiscovery/proxify GitHub - projectdiscovery/proxify: A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+S:2923
+https://github.com/sherlock-project/sherlock GitHub - sherlock-project/sherlock: Hunt down social media accounts by username across social networks
+S:92059
+https://github.com/Lissy93/web-check GitHub - Lissy93/web-check: 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+S:34866
+https://github.com/jivoi/awesome-osint GitHub - jivoi/awesome-osint: :scream: A curated list of amazingly awesome OSINT
+S:29624
+https://github.com/mxrch/GHunt GitHub - mxrch/GHunt: 🕵️‍♂️ Offensive Google framework.
+S:19577
+https://github.com/soxoj/maigret GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+S:37781
+https://github.com/just-every/code GitHub - just-every/code: Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
+S:4030
+https://github.com/sst/opencode GitHub - sst/opencode: The AI coding agent built for the terminal.
+S:208481
+https://github.com/FFmpeg/FFmpeg GitHub - FFmpeg/FFmpeg: Mirror of https://git.ffmpeg.org/ffmpeg.git
+S:64336
+https://github.com/FreeCAD/FreeCAD GitHub - FreeCAD/FreeCAD: Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+S:33625
+https://github.com/Snapchat/Valdi GitHub - Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+S:16373
+https://github.com/opencloud-eu/opencloud GitHub - opencloud-eu/opencloud: 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
+S:6022
+https://github.com/FEX-Emu/FEX GitHub - FEX-Emu/FEX: A fast usermode x86 and x86-64 emulator for Arm64 Linux
+S:3213
+https://github.com/helm/helm GitHub - helm/helm: The Kubernetes Package Manager
+S:28962
+https://github.com/ModOrganizer2/modorganizer GitHub - ModOrganizer2/modorganizer: Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
+S:2663
+https://github.com/bobeff/open-source-games GitHub - bobeff/open-source-games: A list of open source games.
+S:6697
+https://github.com/Trilarion/opensourcegames GitHub - Trilarion/opensourcegames: Technical infos of open source games.
+S:815
+https://github.com/dgtlmoon/changedetection.io GitHub - dgtlmoon/changedetection.io: Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+S:28901
+https://github.com/Tongyi-MAI/Z-Image GitHub - Tongyi-MAI/Z-Image
+S:4036
+https://github.com/smicallef/spiderfoot GitHub - smicallef/spiderfoot: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+S:22378
+https://github.com/microsoft/BitNet GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs
+S:40281
+https://github.com/pyupio/safety GitHub - pyupio/safety: Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
+S:1996
+https://github.com/knadh/oat GitHub - knadh/oat: Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB
+S:5505
+https://github.com/markqvist/reticulum GitHub - markqvist/Reticulum: The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+S:7347
+https://github.com/bigcode-project/starcoder2 GitHub - bigcode-project/starcoder2: Home of StarCoder2!
+S:2094
+https://github.com/meta-llama/llama GitHub - meta-llama/llama: Inference code for Llama models
+S:59616
+https://github.com/veloren/veloren GitHub - veloren/veloren: [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+S:7558
+https://github.com/mahmoud/awesome-python-applications GitHub - mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+S:18039
+https://github.com/ellisonleao/magictools GitHub - ellisonleao/magictools: :video_game: A list of Game Development resources to make magic happen.
+S:17299
+https://github.com/redhat-et/ripwire GitHub - redhat-et/ripwire: The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.
+S:2009
+https://github.com/stalwartlabs/mail-server GitHub - stalwartlabs/mail-server: Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+S:14719
+https://github.com/BruceDone/awesome-crawler GitHub - BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages
+S:7318
+https://github.com/Zyphra/Zonos GitHub - Zyphra/Zonos: Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.
+S:7236
+https://github.com/ZDoom/gzdoom GitHub - ZDoom/gzdoom: GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
+S:3107
+https://github.com/sandstorm-io/sandstorm GitHub - sandstorm-io/sandstorm: Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+S:7077
+https://github.com/godotengine/godot GitHub - godotengine/godot: Godot Engine – Multi-platform 2D and 3D game engine
+S:117432
+https://github.com/12britz/awesome-free-models GitHub - 12britz/awesome-free-models: A curated list of free AI models, APIs, and tools you can use without paying a cent.
+S:2307
+https://github.com/Maxstupo/ydl-ui GitHub - Maxstupo/ydl-ui: A UI for the command-line video downloader "youtube-dl"
+S:415
+https://github.com/database64128/youtube-dl-wpf GitHub - database64128/youtube-dl-wpf: A simple GUI wrapper for youtube-dl and yt-dlp.
+S:1420
+https://github.com/spacecowboy/Feeder GitHub - spacecowboy/Feeder: Android RSS reader app
+S:3039
+https://github.com/SuperAB123/Free-Official-Youtube-Content GitHub - SuperAB123/Free-Official-Youtube-Content: Awesome list of Free Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, Short Films, VFX Breakdown & More. This list is all legal streaming
+S:404
+https://github.com/gumyr/build123d GitHub - gumyr/build123d: A python CAD programming library
+S:3180
+https://github.com/persepolisdm/persepolis GitHub - persepolisdm/persepolis: Persepolis is a download manager written in Python.
+S:7458
+https://github.com/horahoradev/horahora GitHub - horahoradev/horahora: Multi-user video download manager supporting hundreds of sites
+S:845
+https://github.com/go-rod/rod GitHub - go-rod/rod: A Chrome DevTools Protocol driver for web automation and scraping.
+S:7109
+https://github.com/janeczku/calibre-web GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+S:18225
+https://github.com/thedevs-network/kutt GitHub - thedevs-network/kutt: Free Modern URL Shortener.
+S:11119
+https://github.com/YOURLS/YOURLS GitHub - YOURLS/YOURLS: 🔗 The de facto standard self hosted URL shortener in PHP
+S:12243
+https://github.com/Lightricks/LTX-2 GitHub - Lightricks/LTX-2: Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+S:9467
+https://github.com/refactoringhq/tolaria GitHub - refactoringhq/tolaria: Desktop app to manage markdown knowledge bases
+S:19887
+https://github.com/infinition/Bjorn GitHub - infinition/Bjorn: Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
+S:6302
+https://github.com/jellyfin/jellyfin-kodi GitHub - jellyfin/jellyfin-kodi: Jellyfin Plugin for Kodi
+S:1134
+https://github.com/IceWhaleTech/ZimaOS GitHub - IceWhaleTech/ZimaOS
+S:2985
+https://github.com/Kovah/LinkAce GitHub - Kovah/LinkAce: LinkAce is a self-hosted archive to collect links of your favorite websites.
+S:3118
+https://github.com/plausible/analytics GitHub - plausible/analytics: Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+S:29137
+https://github.com/allinurl/goaccess GitHub - allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+S:20936
+https://github.com/OHF-Voice/piper1-gpl GitHub - OHF-Voice/piper1-gpl: Fast and local neural text-to-speech engine
+S:5634
+https://github.com/browseros-ai/BrowserOS GitHub - browseros-ai/BrowserOS: 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+S:13726
+https://github.com/rshipp/awesome-malware-analysis GitHub - rshipp/awesome-malware-analysis: Defund the Police.
+S:14210
+https://github.com/praydog/UEVR GitHub - praydog/UEVR: Universal Unreal Engine VR Mod (4.8 - 5.4)
+S:4527
+https://github.com/SpotX-Official/SpotX GitHub - SpotX-Official/SpotX: SpotX patcher used for patching the desktop version of Spotify
+S:22422
+https://github.com/atom0s/Steamless GitHub - atom0s/Steamless: Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
+S:5047
+https://github.com/ares-emulator/ares GitHub - ares-emulator/ares: ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
+S:1801
+https://github.com/kannagi0303/yt-dlp-gui GitHub - kannagi0303/yt-dlp-gui: Windows GUI for yt-dlp
+S:2602
+https://github.com/tubearchivist/tubearchivist GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+S:8462
+https://github.com/axcore/tartube GitHub - axcore/tartube: A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+S:3133
+https://github.com/bbilly1/tubearchivist GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+S:8462
+https://github.com/Tzahi12345/YoutubeDL-Material GitHub - Tzahi12345/YoutubeDL-Material: Self-hosted YouTube downloader built on Material Design
+S:3199
+https://github.com/chaitin/SafeLine GitHub - chaitin/SafeLine: serve as a reverse proxy to protect your web services from attacks and exploits.
+S:22657
+https://github.com/DandelionSprout/adfilt GitHub - DandelionSprout/adfilt: The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+S:2270
+https://github.com/gitroomhq/postiz-app GitHub - gitroomhq/postiz-app: 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+S:36165
+https://github.com/zotify-dev/zotify GitHub - zotify-dev/zotify: A fast and customizable music and podcast downloader.
+S:2543
+https://github.com/PyPSA/pypsa-eur GitHub - PyPSA/pypsa-eur: PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
+S:615
+https://github.com/louislam/dockge GitHub - louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+S:19452
+https://github.com/mealie-recipes/mealie GitHub - mealie-recipes/mealie: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+S:13280
+https://github.com/yourselfhosted/slash GitHub - yourselfhosted/slash: An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
+S:3179
+https://github.com/theotherp/nzbhydra2 GitHub - theotherp/nzbhydra2: Usenet meta search
+S:1722
+https://github.com/Piwigo/Piwigo GitHub - Piwigo/Piwigo: Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
+S:3860
+https://github.com/M66B/FairEmail GitHub - M66B/FairEmail: Fully featured, open source, privacy friendly email app for Android
+S:4651
+https://github.com/mailpile/Mailpile GitHub - mailpile/Mailpile: A free & open modern, fast email client with user-friendly encryption and privacy features
+S:8817
+https://github.com/thunderbird/thunderbird-android GitHub - thunderbird/thunderbird-android: Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+S:14015
+https://github.com/openwrt/openwrt GitHub - openwrt/openwrt: This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+S:28481
+https://github.com/explainX/explainx GitHub - explainX/explainx: Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code. We are looking for co-authors to take this project forward. Reach out @ ms8909@nyu.edu
+S:451
+https://github.com/Alex-Linhares/FARGonautica GitHub - Alex-Linhares/FARGonautica
+S:123
+https://github.com/benedekrozemberczki/awesome-graph-classification GitHub - benedekrozemberczki/awesome-graph-classification: A collection of important graph embedding, classification and representation learning papers with implementations.
+S:4801
+https://github.com/benedekrozemberczki/awesome-community-detection GitHub - benedekrozemberczki/awesome-community-detection: A curated list of community detection research papers with implementations.
+S:2451
+https://github.com/benedekrozemberczki/awesome-decision-tree-papers GitHub - benedekrozemberczki/awesome-decision-tree-papers: A collection of research papers on decision, classification and regression trees with implementations.
+S:2475
+https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers GitHub - benedekrozemberczki/awesome-gradient-boosting-papers: A curated list of gradient boosting research papers with implementations.
+S:1051
+https://github.com/benedekrozemberczki/awesome-fraud-detection-papers GitHub - benedekrozemberczki/awesome-fraud-detection-papers: A curated list of data mining papers about fraud detection.
+S:1834
+https://github.com/crypdick/awesome-neural-art GitHub - crypdick/awesome-neural-art: A curated list of awesome neural network-based art resources.
+S:87
+https://github.com/mamedev/mame GitHub - mamedev/mame: MAME
+S:10516
+https://github.com/vxunderground/MalwareSourceCode GitHub - vxunderground/MalwareSourceCode: Collection of malware source code for a variety of platforms in an array of different programming languages.
+S:18742
+https://github.com/ytisf/theZoo GitHub - ytisf/theZoo: A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+S:13404
+https://github.com/Team-xManager/xManager GitHub - Team-xManager/xManager: Ad-Free, New Features & Freedom
+S:12161
+https://github.com/ImranR98/Obtainium GitHub - ImranR98/Obtainium: Get Android app updates straight from the source.
+S:19864
+https://github.com/riscv RISC-V
+https://github.com/tayllan/awesome-algorithms GitHub - tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
+S:25563
+https://github.com/rossant/awesome-math GitHub - rossant/awesome-math: A curated list of awesome mathematics resources
+S:16465
+https://github.com/igorbarinov/awesome-bitcoin GitHub - igorbarinov/awesome-bitcoin: A curated list of bitcoin services and tools for software developers
+S:1355
+https://github.com/uazo/cromite GitHub - uazo/cromite: Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+S:8256
+https://github.com/bromite/bromite GitHub - bromite/bromite: Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+S:6317
+https://github.com/jmbannon/ytdl-sub GitHub - jmbannon/ytdl-sub: Lightweight tool to automate downloading and metadata generation with yt-dlp
+S:2951
+https://github.com/mozilla/readability GitHub - mozilla/readability: A standalone version of the readability lib
+S:11406
+https://github.com/cryptpad/cryptpad GitHub - cryptpad/cryptpad: Collaborative office suite, end-to-end encrypted and open-source.
+S:7910
+https://github.com/browser-use/web-ui GitHub - browser-use/web-ui: Run AI Agent in your browser.
+S:16567
+https://github.com/mickael-kerjean/filestash GitHub - mickael-kerjean/filestash: 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+S:12422
+https://github.com/plenaryapp/awesome-rss-feeds GitHub - plenaryapp/awesome-rss-feeds: Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
+S:2790
+https://github.com/FreshRSS/FreshRSS GitHub - FreshRSS/FreshRSS: A free, self-hostable news aggregator…
+S:12571
+https://github.com/beemdevelopment/Aegis GitHub - beemdevelopment/Aegis: A free, secure and open source app for Android to manage your 2-step verification tokens.
+S:13135
+https://github.com/Yubico/yubioath-flutter GitHub - Yubico/yubioath-flutter: Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
+S:1380
+https://github.com/g1879/DrissionPage GitHub - g1879/DrissionPage: Python based web automation tool. Powerful and elegant.
+S:12469
+https://github.com/NaiboWang/EasySpider GitHub - NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+S:44580
+https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+S:12256
+https://github.com/PaddlePaddle/PaddleOCR GitHub - PaddlePaddle/PaddleOCR: Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+S:89950
+https://github.com/siyuan-note/siyuan GitHub - siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+S:46449
+https://github.com/hiroi-sora/Umi-OCR GitHub - hiroi-sora/Umi-OCR: OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+S:47430
+https://github.com/atlas-engineer/nyxt GitHub - atlas-engineer/nyxt: Nyxt - the hacker's browser.
+S:11025
+https://github.com/lightpanda-io/browser GitHub - lightpanda-io/browser: Lightpanda: the headless browser designed for AI and automation
+S:35543
+https://github.com/JStumpp/awesome-android GitHub - JStumpp/awesome-android: A curated list of awesome Android packages and resources.
+S:12354
+https://github.com/netbox-community/netbox GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
+S:21459
+https://github.com/docker/awesome-compose GitHub - docker/awesome-compose: Awesome Docker Compose samples
+S:41252
+https://github.com/microsoft/ProcMon-for-Linux GitHub - microsoft/ProcMon-for-Linux: A Linux version of the Procmon Sysinternals tool
+S:4738
+https://github.com/mehdihadeli/awesome-software-architecture GitHub - mehdihadeli/awesome-software-architecture: 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+S:9840
+https://github.com/sissbruecker/linkding GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+S:9161
+https://github.com/goniszewski/grimoire GitHub - goniszewski/grimoire: Bookmark manager for the wizards 🧙
+S:2636
+https://github.com/lwthiker/curl-impersonate GitHub - lwthiker/curl-impersonate: curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
+S:5576
+https://github.com/mitmproxy/mitmproxy GitHub - mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+S:40717
+https://github.com/timelinize/timelinize GitHub - timelinize/timelinize: Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+S:3672
+https://github.com/Fmstrat/winapps GitHub - Fmstrat/winapps: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+S:9930
+https://github.com/TibixDev/winboat GitHub - TibixDev/winboat: Run Windows apps on 🐧 Linux with ✨ seamless integration
+S:6507
+https://github.com/rybbit-io/rybbit GitHub - rybbit-io/rybbit: 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
+S:13026
+https://github.com/umami-software/umami GitHub - umami-software/umami: Umami is a modern, privacy-focused alternative to Google Analytics.
+S:38902
+https://github.com/servo/servo GitHub - servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+S:38009
+https://github.com/mwmbl/mwmbl GitHub - mwmbl/mwmbl: An open source, non-profit web search engine
+S:1858
+https://github.com/ggml-org/whisper.cpp GitHub - ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+S:53771
+https://github.com/beetbox/beets GitHub - beetbox/beets: music library manager and MusicBrainz tagger
+S:14174
+https://github.com/apache/hadoop GitHub - apache/hadoop: Apache Hadoop
+S:15366
+https://github.com/cloudreve/cloudreve GitHub - cloudreve/cloudreve: 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+S:25456
+https://github.com/Homebrew/brew GitHub - Homebrew/brew: 🍺 The missing package manager for macOS (or Linux)
+S:45423
+https://github.com/ValveSoftware/Proton GitHub - ValveSoftware/Proton: Compatibility tool for Steam Play based on Wine and additional components
+S:28409
+https://github.com/asciimoo/omnom GitHub - asciimoo/omnom: A web content preservation service
+S:459
+https://github.com/docling-project/docling GitHub - docling-project/docling: Get your documents ready for gen AI
+S:66725
+https://github.com/permissionlesstech/bitchat GitHub - permissionlesstech/bitchat: bluetooth mesh chat, IRC vibes
+S:36259
+https://github.com/imputnet/helium GitHub - imputnet/helium: Private, fast, and honest web browser
+S:20807
+https://github.com/meshtastic/firmware GitHub - meshtastic/firmware: The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+S:8318
+https://github.com/recloudstream/cloudstream GitHub - recloudstream/cloudstream: Android app for streaming and downloading media.
+S:10712
+https://github.com/black-forest-labs/flux GitHub - black-forest-labs/flux: Official inference repo for FLUX.1 models
+S:25972
+https://github.com/PyCQA/bandit GitHub - PyCQA/bandit: Bandit is a tool designed to find common security issues in Python code.
+S:8276
+https://github.com/twbs/bootstrap GitHub - twbs/bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+S:174878
+https://github.com/webmin/webmin GitHub - webmin/webmin: Powerful and flexible web-based server management control panel
+S:6068
+https://github.com/cockpit-project/cockpit GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.
+S:15128
+https://github.com/BerriAI/litellm GitHub - BerriAI/litellm: Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+S:59405
+https://github.com/ultraworkers/claw-code GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+S:195278
+https://github.com/microsoft/markitdown GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.
+S:186607
+https://github.com/cryptomator/cryptomator GitHub - cryptomator/cryptomator: Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+S:16178
+https://github.com/asciimoo/hister GitHub - asciimoo/hister: Your own search engine
+S:5658
+https://github.com/fastlane/fastlane GitHub - fastlane/fastlane: 🚀 The easiest way to automate building and releasing your iOS and Android apps
+S:42154
+https://github.com/pear-devs/pear-desktop GitHub - pear-devs/pear-desktop: Pear 🍐 is extension for music player
+S:33577
+https://github.com/onyx-dot-app/onyx GitHub - onyx-dot-app/onyx: Open Source AI Platform - AI Chat with advanced features that works with every LLM
+S:32238
+https://github.com/zai-org/GLM-4.5 GitHub - zai-org/GLM-4.5: GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+S:4424
+https://github.com/meta-llama/llama3 GitHub - meta-llama/llama3: The official Meta Llama 3 GitHub site
+S:29216
+https://github.com/deepseek-ai/deepseek-harness GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.
+S:187741
+https://github.com/zedeus/nitter GitHub - zedeus/nitter: Alternative Twitter front-end
+S:14487
+https://github.com/SenteLabsAI/OpenExecutive GitHub - SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).
+S:5437
+https://github.com/bitcoin/bitcoin GitHub - bitcoin/bitcoin: Bitcoin Core integration/staging tree
+S:90080
+https://github.com/monero-project/monero GitHub - monero-project/monero: Monero: the secure, private, untraceable cryptocurrency
+S:10820
+https://github.com/mifi/lossless-cut GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing
+S:43426
+https://github.com/SPlayer-Dev/SPlayer-Next GitHub - SPlayer-Dev/SPlayer-Next: 🎵 Cross-platform desktop music player with rich lyric support and wide audio format compatibility. 跨平台桌面音乐播放器，支持丰富歌词与多种音频格式
+S:1035
+https://github.com/schollz/croc GitHub - schollz/croc: Easily and securely send things from one computer to another :package:
+S:40221
+https://github.com/schlagmichdoch/pairdrop GitHub - schlagmichdoch/PairDrop: PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+S:11306
+https://github.com/Kavex/GameDev-Resources GitHub - Kavex/GameDev-Resources: :game_die: A wonderful list of Game Development resources.
+S:6931
+https://github.com/yjeanrenaud/yj_nearbyglasses GitHub - yjeanrenaud/yj_nearbyglasses: attempting to detect smart glasses nearby and warn you
+S:2201
+https://github.com/MorpheApp/morphe-manager GitHub - MorpheApp/morphe-manager: Morphe app patcher for Android
+S:8284
+https://github.com/paperclipai/paperclip GitHub - paperclipai/paperclip: The open-source app everyone uses to manage agents at work
+S:82109
+https://github.com/Billionmail/BillionMail GitHub - Billionmail/BillionMail: BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+S:15715
+https://github.com/simplifaisoul/osiris GitHub - simplifaisoul/osiris: Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
+S:10086
+https://github.com/lorien/awesome-web-scraping GitHub - lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.
+S:8155
+https://github.com/StefanLobbenmeier/youtube-dl-gui GitHub - StefanLobbenmeier/youtube-dl-gui: A cross-platform GUI for youtube-dl made in Electron and node.js
+S:2658
+https://github.com/meeb/tubesync GitHub - meeb/tubesync: Syncs YouTube channels and playlists to a locally hosted media server
+S:2795
+https://github.com/qutebrowser/qutebrowser GitHub - qutebrowser/qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt.
+S:11705
+https://github.com/docker-mailserver/docker-mailserver GitHub - docker-mailserver/docker-mailserver: Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+S:17048
+https://github.com/EbookFoundation/free-programming-books GitHub - EbookFoundation/free-programming-books: :books: Freely available programming books
+S:397167
+https://github.com/0x192/universal-android-debloater GitHub - 0x192/universal-android-debloater: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+S:19967
+https://github.com/IceWhaleTech/CasaOS GitHub - IceWhaleTech/CasaOS: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+S:37244
+https://github.com/ultrafunkamsterdam/undetected-chromedriver GitHub - ultrafunkamsterdam/undetected-chromedriver: Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+S:12853
+https://github.com/photoview/photoview GitHub - photoview/photoview: Photo gallery for self-hosted personal servers
+S:6533
+https://github.com/ytdl-org/youtube-dl GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
+S:141310
+https://github.com/papers-we-love/papers-we-love GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+S:109910
+https://github.com/CPLUSPLUS ISO C++ Standards Committee
+https://github.com/alexta69/metube GitHub - alexta69/metube: Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+S:14822
+https://github.com/JunkFood02/Seal GitHub - JunkFood02/Seal: 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+S:29134
+https://github.com/deniscerri/ytdlnis GitHub - deniscerri/ytdlnis: Android Video/Audio Downloader app using yt-dlp
+S:10214
+https://github.com/louislam/uptime-kuma GitHub - louislam/uptime-kuma: A fancy self-hosted monitoring tool
+S:91659
+https://github.com/fatedier/frp GitHub - fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+S:109544
+https://github.com/BrowserBox/BrowserBox GitHub - BrowserBox/BrowserBox: 🌀 Browse the whole web from a web page. Remote browser isolation. For compliance, integration, security, privacy and more! By https://dosyago.com
+S:3916
+https://github.com/lexiforest/curl_cffi GitHub - lexiforest/curl_cffi: Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
+S:6537
+https://github.com/HenryQW/Awesome-TTRSS GitHub - HenryQW/Awesome-TTRSS: 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+S:2554
+https://github.com/ValveSoftware/openvr GitHub - ValveSoftware/openvr: OpenVR SDK
+S:6663
+https://github.com/tailscale-dev/docker-mod GitHub - tailscale-dev/docker-mod: The home for our universal Docker mod
+S:121
+https://github.com/LadybirdBrowser/ladybird GitHub - LadybirdBrowser/ladybird: Truly independent web browser
+S:66265
+https://github.com/aimacode aimacode
+https://github.com/guillaume-chevalier/awesome-deep-learning-resources GitHub - guillaume-chevalier/Awesome-Deep-Learning-Resources: Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
+S:1820
+https://github.com/massgravel/Microsoft-Activation-Scripts GitHub - massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+S:191528
+https://github.com/zen-browser/desktop GitHub - zen-browser/desktop: 🌀 Experience tranquillity while browsing the web without people tracking you!
+S:44547
+https://github.com/paperless-ngx/paperless-ngx GitHub - paperless-ngx/paperless-ngx: A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+S:45869
+https://github.com/swisskyrepo/PayloadsAllTheThings GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+S:81070
+https://github.com/home-assistant/operating-system GitHub - home-assistant/operating-system: :beginner: Home Assistant Operating System
+S:7489
+https://github.com/ReVanced/revanced-manager GitHub - ReVanced/revanced-manager: 💊 Application to use ReVanced on Android
+S:29608
+https://github.com/revanced ReVanced
+https://github.com/LibreTranslate/LibreTranslate GitHub - LibreTranslate/LibreTranslate: Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+S:16706
+https://github.com/th-ch/youtube-music GitHub - th-ch/youtube-music: YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+S:33551
+https://github.com/neovim/neovim GitHub - neovim/neovim: Vim-fork focused on extensibility and usability
+S:102505
+https://github.com/helix-editor/helix GitHub - helix-editor/helix: A post-modern modal text editor.
+S:46300
+https://github.com/JanVanRyswyck/awesome-talks GitHub - JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+S:6202
+https://github.com/syncthing/syncthing GitHub - syncthing/syncthing: Open Source Continuous File Synchronization
+S:88873
+https://github.com/wallabag/wallabag GitHub - wallabag/wallabag: wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+S:12982
+https://github.com/omnivore-app/omnivore GitHub - omnivore-app/omnivore: Omnivore is a complete, open source read-it-later solution for people who like reading.
+S:16257
+https://github.com/ansible/ansible GitHub - ansible/ansible: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+S:70780
+https://github.com/ansible/awx GitHub - ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+S:15568
+https://github.com/tailscale/tailscale GitHub - tailscale/tailscale: The easiest, most secure way to use WireGuard and 2FA.
+S:36823
+https://github.com/karakeep-app/karakeep GitHub - karakeep-app/karakeep: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+S:29160
+https://github.com/ArchiveBox/ArchiveBox GitHub - ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+S:28542
+https://github.com/iipc/awesome-web-archiving GitHub - iipc/awesome-web-archiving: An Awesome List for getting started with web archiving
+S:2648
+https://github.com/unclecode/crawl4ai GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+S:84029
+https://github.com/hydralauncher/hydra GitHub - hydralauncher/hydra: Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+S:17018
+https://github.com/linkwarden/linkwarden GitHub - linkwarden/linkwarden: ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+S:19833
+https://github.com/awesome-foss/awesome-sysadmin GitHub - awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open-source sysadmin resources.
+S:35240
+https://github.com/brave/brave-browser GitHub - brave/brave-browser: Brave browser for Android, iOS, Linux, macOS, Windows.
+S:23701
+https://github.com/mozilla-firefox/firefox GitHub - mozilla-firefox/firefox: The official repository of Mozilla's Firefox web browser.
+S:13223
+https://github.com/omkarcloud/botasaurus GitHub - omkarcloud/botasaurus: The All in One Framework to Build Undefeatable Scrapers
+S:5710
+https://github.com/go-shiori/shiori GitHub - go-shiori/shiori: Simple bookmark manager built with Go
+S:10912
+https://github.com/ventoy/Ventoy GitHub - ventoy/Ventoy: A new bootable USB solution.
+S:79362
+https://github.com/openai/codex GitHub - openai/codex: Lightweight coding agent that runs in your terminal
+S:125192
+https://github.com/ItzCrazyKns/Perplexica GitHub - ItzCrazyKns/Perplexica: Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+S:27452
+https://github.com/simstudioai/sim GitHub - simstudioai/sim: Open-source platform to build and deploy AI agent workflows.
+S:29674
+https://github.com/fmhy/edit GitHub - fmhy/edit: Make changes to FMHY
+S:11889
+https://github.com/cjpais/Handy GitHub - cjpais/Handy: A free, open source, and extensible speech-to-text application that works completely offline.
+S:31923
+https://github.com/QwenLM/Qwen3-TTS GitHub - QwenLM/Qwen3-TTS: Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
+S:13475
+https://github.com/openai/whisper GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+S:109421
+https://github.com/coqui-ai/TTS GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+S:46035
+https://github.com/MoonshotAI/Kimi-K2 GitHub - MoonshotAI/Kimi-K2: Kimi K2 is the large language model series developed by Moonshot AI team
+S:11113
+https://github.com/benbusby/whoogle-search GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
+S:11570
+https://github.com/meta-llama/llama-models GitHub - meta-llama/llama-models: Utilities intended for use with Llama models.
+S:7694
+https://github.com/google-deepmind/gemma GitHub - google-deepmind/gemma: Gemma open-weight LLM library, from Google DeepMind
+S:5746
+https://github.com/ggml-org/llama.cpp GitHub - ggml-org/llama.cpp: LLM inference in C/C++
+S:129447
+https://github.com/google-antigravity/antigravity-cli GitHub - google-antigravity/antigravity-cli: Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
+S:2378
+https://github.com/pixlcore/xyops GitHub - pixlcore/xyops: A complete workflow automation and server monitoring system.
+S:6232
+https://github.com/offa/android-foss GitHub - offa/android-foss: A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+S:11126
+https://github.com/jstumpp/awesome-android GitHub - JStumpp/awesome-android: A curated list of awesome Android packages and resources.
+S:12312
+https://github.com/bayandin/awesome-awesomeness GitHub - bayandin/awesome-awesomeness: A curated list of awesome awesomeness
+https://github.com/zhayujie/CowAgent GitHub - zhayujie/CowAgent: Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
+S:47091
+https://github.com/nexu-io/open-design GitHub - nexu-io/open-design: 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+S:97772
+https://github.com/futo-org/grayjay-android GitHub - futo-org/grayjay-android: Read-only mirror of Grayjay repo for issue tracking
+S:1812
+https://github.com/glanceapp/glance GitHub - glanceapp/glance: A self-hosted dashboard that puts all your feeds in one place
+S:37154
+https://github.com/LibrePhotos/librephotos GitHub - LibrePhotos/librephotos: A self-hosted open source photo management service. This is the repository of the backend.
+S:8079
+https://github.com/ente-io/ente GitHub - ente-io/ente: Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+S:29001
+https://github.com/HeyPuter/puter GitHub - HeyPuter/puter: 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+S:43555
+https://github.com/KRTirtho/spotube GitHub - KRTirtho/spotube: 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+S:49328
+https://github.com/KurtBestor/Hitomi-Downloader GitHub - KurtBestor/Hitomi-Downloader: :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+S:27515
+https://github.com/TeamNewPipe/NewPipe GitHub - TeamNewPipe/NewPipe: A libre lightweight streaming front-end for Android.
+S:39741
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist GitHub - Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist: The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
+S:1620
+https://github.com/yuliskov/SmartTube GitHub - yuliskov/SmartTube: SmartTube - an advanced player for set-top boxes and tvs running Android OS
+S:33980
+https://github.com/Hack-with-Github/Awesome-Hacking GitHub - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers
+S:120930
+https://github.com/jlevy/the-art-of-command-line GitHub - jlevy/the-art-of-command-line: Master the command line, in one page
+S:162472
+https://github.com/agarrharr/awesome-cli-apps GitHub - agarrharr/awesome-cli-apps: 🖥 📊 🕹 🛠 A curated list of command line apps
+S:20439
+https://github.com/fffaraz/awesome-cpp GitHub - fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+S:73400
+https://github.com/yang991178/fluent-reader-lite GitHub - yang991178/fluent-reader-lite: Simplistic mobile RSS client built with Flutter
+S:1765
+https://github.com/badmojr/1Hosts GitHub - badmojr/1Hosts: World's most advanced  DNS filter-/blocklists!
+S:2231
+https://github.com/usememos/memos GitHub - usememos/memos: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+S:63234
+https://github.com/peass-ng/PEASS-ng GitHub - peass-ng/PEASS-ng: PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+S:20561
+https://github.com/immich-app/immich GitHub - immich-app/immich: High performance self-hosted photo and video management solution.
+S:75491
+https://github.com/nylas/nylas-mail GitHub - nylas/nylas-mail: :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
+S:24733
+https://github.com/josephmisiti/awesome-machine-learning GitHub - josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.
+S:74390
+https://github.com/veggiemonk/awesome-docker GitHub - veggiemonk/awesome-docker: :whale: A curated list of Docker resources and projects
+S:36863
+https://github.com/jnv/lists GitHub - jnv/lists: The definitive list of lists (of lists) curated on GitHub and elsewhere
+S:11504
+https://github.com/microsoft/playwright-python GitHub - microsoft/playwright-python: Python version of the Playwright testing and automation library.
+S:15014
+https://github.com/SeleniumHQ/selenium GitHub - SeleniumHQ/selenium: A browser automation framework and ecosystem.
+S:34507
+https://github.com/jesseduffield/lazydocker GitHub - jesseduffield/lazydocker: The lazier way to manage everything docker
+S:46067
+https://github.com/browser-use/browser-use GitHub - browser-use/browser-use: Make websites accessible for AI agents
+S:115089
+https://github.com/subnub/myDrive GitHub - subnub/myDrive: Node.js and mongoDB Google Drive Clone
+S:3987
+https://github.com/balena-io/etcher GitHub - balena-io/etcher: Flash OS images to SD cards & USB drives, safely and easily.
+S:34392
+https://github.com/internetarchive/heritrix3 GitHub - internetarchive/heritrix3: Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
+S:3321
+https://github.com/tesseract-ocr/tesseract GitHub - tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)
+S:76609
+https://github.com/seleniumbase/SeleniumBase GitHub - seleniumbase/SeleniumBase: Python APIs for web automation, testing, and bypassing bot-detection.
+S:13025
+https://github.com/apify/crawlee GitHub - apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+S:25837
+https://github.com/apify/crawlee-python GitHub - apify/crawlee-python: Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+S:9541
+https://github.com/encode/httpx GitHub - encode/httpx: A next generation HTTP client for Python. 🦋
+S:14604
+https://github.com/n8n-io/n8n GitHub - n8n-io/n8n: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+S:205309
+https://github.com/QwenLM/Qwen GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+S:21791
+https://github.com/trending?since=monthly Build software better, together
+https://github.com/Crosstalk-Solutions/project-nomad GitHub - Crosstalk-Solutions/project-nomad: Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+S:38115
+https://github.com/qdrant/qdrant GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+S:34761
+https://github.com/opensearch-project/OpenSearch GitHub - opensearch-project/OpenSearch: 🔎 Open source distributed and RESTful search engine.
+S:13763
+https://github.com/gradle/gradle GitHub - gradle/gradle: Adaptable, fast automation for all
+S:18858
+https://github.com/TryGhost/Ghost GitHub - TryGhost/Ghost: Independent technology for modern publishing, memberships, subscriptions and newsletters.
+S:55421
+https://github.com/deepseek-ai/DeepSeek-R1 GitHub - deepseek-ai/DeepSeek-R1
+S:91972
+https://github.com/MoonshotAI/Kimi-K3 GitHub - MoonshotAI/Kimi-K3: Open Frontier Intelligence
+S:8852
+https://github.com/audacity/audacity GitHub - audacity/audacity: Audio Editor
+S:17781
+https://github.com/mpv-player/mpv GitHub - mpv-player/mpv: 🎥 Command line media player
+S:36825
+https://github.com/p-e-w/heretic GitHub - p-e-w/heretic: Fully automatic censorship removal for language models
+S:33212
+https://github.com/Panniantong/agent-reach GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+S:90720
+https://github.com/nousresearch/hermes-agent GitHub - NousResearch/hermes-agent: The agent that grows with you
+S:248609
+https://github.com/yt-dlp/yt-dlp GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader
+S:192587
+https://github.com/sindresorhus/awesome GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics
+S:508678
+https://github.com/vinta/awesome-python GitHub - vinta/awesome-python: An opinionated list of awesome Python frameworks, libraries, software and resources.
+S:322170
+https://github.com/awesome-selfhosted/awesome-selfhosted GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
+S:320848
+https://github.com/gorhill/uBlock GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+S:68030
+https://github.com/owainlewis/awesome-artificial-intelligence GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+S:16536
+https://github.com/FreeTubeApp/FreeTube GitHub - FreeTubeApp/FreeTube: An Open Source YouTube app for privacy
+S:21966
+https://github.com/AboutRSS/ALL-about-RSS GitHub - AboutRSS/ALL-about-RSS: A list of RSS related stuff: tools, services, communities and tutorials, etc.
+S:5905
+https://github.com/deepseek-ai/DeepSeek-V3 GitHub - deepseek-ai/DeepSeek-V3
+S:104471
+https://github.com/anthropics/claude-code GitHub - anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+S:146374
+https://github.com/google-gemini/gemini-cli GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.
+S:107073
+https://github.com/obsproject/obs-studio GitHub - obsproject/obs-studio: OBS Studio - Free and open source software for live streaming and screen recording
+S:76445
+https://github.com/qwibitai/nanoclaw GitHub - qwibitai/nanoclaw: A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+S:30823
+https://github.com/elastic/elasticsearch GitHub - elastic/elasticsearch: Free and Open Source, Distributed, RESTful Search Engine
+S:77968
+https://github.com/edoardottt/awesome-hacker-search-engines GitHub - edoardottt/awesome-hacker-search-engines: A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+S:11205
+https://github.com/Aider-AI/aider GitHub - Aider-AI/aider: aider is AI pair programming in your terminal
+S:49148
+https://github.com/odysseus-dev/odysseus GitHub - pewdiepie-archdaemon/odysseus: Self-hosted AI workspace.
+S:87568
+https://github.com/zai-org/ZCode GitHub - zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.
+S:6485
+https://github.com/HKUDS/OpenHarness GitHub - HKUDS/OpenHarness: "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+S:15842
+https://github.com/anomalyco/opencode GitHub - anomalyco/opencode: The open source coding agent.
+S:200632
+https://github.com/searxng/searxng GitHub - searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+S:37465
+https://github.com/f/awesome-chatgpt-prompts GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.
+S:170928
+https://github.com/trimstray/the-book-of-secret-knowledge GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+S:245179
+https://github.com/rustdesk/rustdesk GitHub - rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+S:124454
+https://github.com/scrapy/scrapy GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.
+S:64468
+https://github.com/ollama/ollama GitHub - ollama/ollama: Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+S:181233
+https://github.com/openclaw/openclaw GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+S:390174
+Time: 0:11

@@ -1,160 +1,297 @@
 Starting alchemy
 Starting alchemy DONE
 Searching...
-https://reddit.com/r/ImaginarySliceOfLife
-https://reddit.com/r/popculturechat
-https://reddit.com/r/SoloDevelopment
-https://reddit.com/r/indiegames
-https://reddit.com/r/soloboardgaming
-https://reddit.com/r/SBCGaming
-https://reddit.com/r/UnrealEngine5
-https://reddit.com/r/HomeServer
-https://reddit.com/r/IndieGaming
-https://reddit.com/r/IndieDev
-https://reddit.com/r/arduino
-https://reddit.com/r/OpenAI
-https://reddit.com/r/dumbphones
-https://reddit.com/r/Unity3D
-https://reddit.com/r/lego
-https://reddit.com/r/StableDiffusion
-https://reddit.com/r/unrealengine
-https://reddit.com/r/lgbt
-https://reddit.com/r/developer
-https://reddit.com/r/Epstein
-https://reddit.com/r/LivestreamFail
-https://reddit.com/r/FacebookAIslop
-https://reddit.com/r/aiMusic
-https://reddit.com/r/masterhacker
-https://reddit.com/r/browsers
-https://reddit.com/r/AnimeReccomendations
-https://reddit.com/r/BooksThatFeelLikeThis
-https://reddit.com/r/firefox
-https://reddit.com/r/pihole
-https://reddit.com/r/lotrmemes
-https://reddit.com/r/Malware
-https://reddit.com/r/programminghorror
-https://reddit.com/r/aivideo
-https://reddit.com/r/singularity
-https://reddit.com/r/nextfuckinglevel
-https://reddit.com/r/robotics
-https://reddit.com/r/CursedAI
-https://reddit.com/r/sciencefiction
-https://reddit.com/r/agi
-https://reddit.com/r/sssdfg
-https://reddit.com/r/darknet
-https://reddit.com/r/startpages
-https://reddit.com/r/wizardposting
-https://reddit.com/r/ProtonMail
-https://reddit.com/r/Grimdank
-https://reddit.com/r/Baking
-https://reddit.com/r/teslamotors
-https://reddit.com/r/fossdroid
-https://reddit.com/r/hackers
-https://reddit.com/r/virtualreality
-https://reddit.com/r/amiga
-https://reddit.com/r/3Dprinting
-https://reddit.com/r/CrackSupport
-https://reddit.com/r/CrackWatch
-https://reddit.com/r/emulation
-https://reddit.com/r/GameMods
-https://reddit.com/r/hacking
-https://reddit.com/r/programming
-https://reddit.com/r/Games
-https://reddit.com/r/Fantasy
-https://reddit.com/r/retrogaming
-https://reddit.com/r/ReverseEngineering
-https://reddit.com/r/rss
-https://reddit.com/r/searchengines
-https://reddit.com/r/DeepIntoYouTube
-https://reddit.com/r/webscraping
-https://reddit.com/r/ArtificialInteligence
-https://reddit.com/r/Documentaries
-https://reddit.com/r/entertainment
-https://reddit.com/r/comicbooks
-https://reddit.com/r/scifi
-https://reddit.com/r/Design
-https://reddit.com/r/DigitalPainting
-https://reddit.com/r/quake
-https://reddit.com/r/drawing
-https://reddit.com/r/Cinemagraphs
-https://reddit.com/r/cinematography
-https://reddit.com/r/linux_gaming
-https://reddit.com/r/listentothis
-https://reddit.com/r/RISCV
-https://reddit.com/r/cybersecurity
-https://reddit.com/r/youtube
-https://reddit.com/r/WeirdWebsites
-https://reddit.com/r/docker
-https://reddit.com/r/SideProject
-https://reddit.com/r/weirddalle
-https://reddit.com/r/aiArt
-https://reddit.com/r/midjourney
-https://reddit.com/r/ChatGPTPromptGenius
-https://reddit.com/r/VRGaming
-https://reddit.com/r/opensource
-https://reddit.com/r/RareHistoricalPhotos
-https://reddit.com/r/BeAmazed
-https://reddit.com/r/DiWHY
-https://reddit.com/r/whoathatsinteresting/.rss
-https://reddit.com/r/whoathatsinteresting
-https://reddit.com/r/DigitalEscapeTools
-https://reddit.com/r/VPN
-https://reddit.com/r/DataHoarder
-https://reddit.com/r/stocks
-https://reddit.com/r/comics
-https://reddit.com/r/blender
-https://reddit.com/r/coolgithubprojects
-https://reddit.com/r/boardgames
-https://reddit.com/r/booksuggestions
-https://reddit.com/r/deepweb
-https://reddit.com/r/InternetIsBeautiful
-https://reddit.com/r/Hacking_Tutorials
-https://reddit.com/r/handmade
-https://reddit.com/r/ProgrammerHumor
-https://reddit.com/r/raspberry_pi
-https://reddit.com/r/gaming
-https://reddit.com/r/Music
-https://reddit.com/r/degoogle
-https://reddit.com/r/conspiracy
-https://reddit.com/r/Asmongold
-https://reddit.com/r/Futurology
-https://reddit.com/r/history
-https://reddit.com/r/TravelHacks
-https://reddit.com/r/DnD
-https://reddit.com/r/compsci
-https://reddit.com/r/Diablo
-https://reddit.com/r/aerospace
-https://reddit.com/r/linux
-https://reddit.com/r/writing
-https://reddit.com/r/programmingmemes
-https://reddit.com/r/ChatGPT
-https://reddit.com/r/privacy
-https://reddit.com/r/woahdude
-https://reddit.com/r/manga
-https://reddit.com/r/popular
-https://reddit.com/r/moviecritic
-https://reddit.com/r/OSINT
-https://reddit.com/r/aviation
-https://reddit.com/r/todayilearned
-https://reddit.com/r/Piracy/wiki/megathread
-https://reddit.com/r/Piracy
-https://reddit.com/r/technology
-https://reddit.com/r/selfhosted
-https://reddit.com/r/Warhammer
-https://reddit.com/r/worldnews
-https://reddit.com/r/science
-https://reddit.com/r/Warhammer40k
-https://reddit.com/r/interestingasfuck
-https://reddit.com/r/DIY
-https://reddit.com/r/askscience
-https://reddit.com/r/Art
-https://reddit.com/r/movies
-https://reddit.com/r/Damnthatsinteresting
-https://reddit.com/r/memes
-https://reddit.com/r/CryptoMarkets
-https://reddit.com/r/vibecoding
-https://reddit.com/r/CryptoCurrency
-https://reddit.com/r/news
-https://reddit.com/r/anime
-https://reddit.com/r/artificial
-Time: 0:0
+https://reddit.com/r/ImaginarySliceOfLife Reddit - The heart of the internet
+F:471377
+https://reddit.com/r/popculturechat Reddit - Please wait for verification
+F:6388801
+https://reddit.com/r/SoloDevelopment Reddit - The heart of the internet
+F:106240
+https://reddit.com/r/indiegames Reddit - The heart of the internet
+F:286303
+https://reddit.com/r/soloboardgaming Reddit - The heart of the internet
+F:89708
+https://reddit.com/r/SBCGaming Reddit - The heart of the internet
+F:204539
+https://reddit.com/r/UnrealEngine5 Reddit - The heart of the internet
+F:81533
+https://reddit.com/r/HomeServer Reddit - The heart of the internet
+F:258267
+https://reddit.com/r/IndieGaming Reddit - The heart of the internet
+F:452722
+https://reddit.com/r/IndieDev Reddit - The heart of the internet
+F:348722
+https://reddit.com/r/arduino Reddit - r/arduino
+F:745981
+https://reddit.com/r/OpenAI Reddit - The heart of the internet
+F:2620005
+https://reddit.com/r/dumbphones Reddit - The heart of the internet
+F:188761
+https://reddit.com/r/Unity3D Reddit - The heart of the internet
+F:444074
+https://reddit.com/r/lego Reddit - The heart of the internet
+F:2650817
+https://reddit.com/r/StableDiffusion Reddit - The heart of the internet
+F:898514
+https://reddit.com/r/unrealengine Reddit - r/unrealengine
+F:282861
+https://reddit.com/r/lgbt Reddit - r/lgbt
+https://reddit.com/r/developer Reddit - r/developer
+https://reddit.com/r/Epstein Reddit - r/Epstein
+F:133523
+https://reddit.com/r/LivestreamFail Reddit - r/LivestreamFail
+F:4442295
+https://reddit.com/r/FacebookAIslop Reddit
+https://reddit.com/r/aiMusic Reddit - r/aiMusic
+F:10790
+https://reddit.com/r/masterhacker Reddit - r/masterhacker
+F:281626
+https://reddit.com/r/browsers Reddit - The heart of the internet
+F:117444
+https://reddit.com/r/AnimeReccomendations Reddit - r/AnimeReccomendations
+F:144446
+https://reddit.com/r/BooksThatFeelLikeThis Reddit - r/BooksThatFeelLikeThis
+F:329171
+https://reddit.com/r/firefox Reddit - Please wait for verification
+https://reddit.com/r/pihole Reddit - Please wait for verification
+https://reddit.com/r/lotrmemes Reddit
+https://reddit.com/r/Malware Malware Analysis & Reports
+F:89342
+https://reddit.com/r/programminghorror Reddit - programminghorror
+F:382814
+https://reddit.com/r/aivideo Reddit - r/aivideo
+F:333394
+https://reddit.com/r/singularity Reddit - r/singularity
+F:7554
+https://reddit.com/r/nextfuckinglevel Reddit - r/nextfuckinglevel
+F:10060329
+https://reddit.com/r/robotics Reddit - r/robotics
+F:316711
+https://reddit.com/r/CursedAI Reddit - r/CursedAI
+F:113387
+https://reddit.com/r/sciencefiction Reddit - r/sciencefiction
+F:291424
+https://reddit.com/r/agi Reddit - r/agi
+F:98769
+https://reddit.com/r/sssdfg Reddit - r/sssdfg
+F:173388
+https://reddit.com/r/darknet Darknet
+F:399430
+https://reddit.com/r/startpages Reddit - r/startpages
+F:27963
+https://reddit.com/r/wizardposting Reddit - r/wizardposting
+F:355638
+https://reddit.com/r/ProtonMail Reddit - Please wait for verification
+https://reddit.com/r/Grimdank Reddit
+https://reddit.com/r/Baking The Baking sub-reddit
+F:4278117
+https://reddit.com/r/teslamotors Reddit - teslamotors
+F:3441211
+https://reddit.com/r/fossdroid Reddit - Please wait for verification
+https://reddit.com/r/hackers Hackers
+https://reddit.com/r/virtualreality Virtual Reality
+F:2077442
+https://reddit.com/r/amiga Amiga
+F:29888
+https://reddit.com/r/3Dprinting Welcome to R/3D Printing! Come for the Benchy, stay for the Calibration!
+F:3297331
+https://reddit.com/r/CrackSupport Crack Support
+F:244618
+https://reddit.com/r/CrackWatch CrackWatch
+F:642301
+https://reddit.com/r/emulation Emulation
+F:398137
+https://reddit.com/r/GameMods Game Mods - Video Game Modifications
+F:4516
+https://reddit.com/r/hacking hacking: security in practice
+F:2864340
+https://reddit.com/r/programming programming
+F:6783608
+https://reddit.com/r/Games Quality Gaming Content and Discussion -- /r/Games
+F:3434899
+https://reddit.com/r/Fantasy Reddit Fantasy
+F:3875422
+https://reddit.com/r/retrogaming Retro Gaming: Reddit's home of vintage gaming
+F:469586
+https://reddit.com/r/ReverseEngineering Reverse Engineering
+F:169413
+https://reddit.com/r/rss RSS - Really Simple Syndication
+F:14968
+https://reddit.com/r/searchengines Search Engines
+F:5186
+https://reddit.com/r/DeepIntoYouTube The Dark Depths of YouTube
+F:2964072
+https://reddit.com/r/webscraping webscraping
+F:86535
+https://reddit.com/r/ArtificialInteligence Artificial Intelligence Gateway
+F:1707431
+https://reddit.com/r/Documentaries Documentaries
+F:20317549
+https://reddit.com/r/entertainment Entertainment
+F:6346120
+https://reddit.com/r/comicbooks comicbooks
+F:4083485
+https://reddit.com/r/scifi scifi
+F:4451376
+https://reddit.com/r/Design design
+F:4419355
+https://reddit.com/r/DigitalPainting Digital Painting
+F:3716225
+https://reddit.com/r/quake Quake
+F:32322
+https://reddit.com/r/drawing r/drawing: reddit's refrigerator door
+F:5722006
+https://reddit.com/r/Cinemagraphs Cinemagraphs: Elegant gifs for a more civilized age.
+F:1753675
+https://reddit.com/r/cinematography Cinematography: An online resource for filmmakers
+F:417545
+https://reddit.com/r/linux_gaming GNU/Linux Gaming on Reddit
+F:395594
+https://reddit.com/r/listentothis Listen To This
+F:17886559
+https://reddit.com/r/RISCV The RISC-V Instruction Set Architecture
+F:30624
+https://reddit.com/r/cybersecurity Cybersecurity
+F:1266885
+https://reddit.com/r/youtube YouTube
+F:1400000
+https://reddit.com/r/WeirdWebsites Reddit - r/WeirdWebsites
+F:56520
+https://reddit.com/r/docker Docker
+F:309585
+https://reddit.com/r/SideProject Reddit - r/SideProject
+F:614178
+https://reddit.com/r/weirddalle Reddit - r/weirddalle
+F:1216000
+https://reddit.com/r/aiArt Reddit - r/aiArt
+F:659220
+https://reddit.com/r/midjourney Reddit - The heart of the internet
+F:1762830
+https://reddit.com/r/ChatGPTPromptGenius Reddit - r/ChatGPTPromptGenius
+F:734585
+https://reddit.com/r/VRGaming Reddit - The heart of the internet
+F:173794
+https://reddit.com/r/opensource Reddit - r/opensource
+F:288556
+https://reddit.com/r/RareHistoricalPhotos RareHistoricalPhotos
+https://reddit.com/r/BeAmazed BeAmazed
+F:9403788
+https://reddit.com/r/DiWHY Reddit - r/DiWHY
+F:3775998
+https://reddit.com/r/whoathatsinteresting/.rss whoathatsinteresting
+F:150980
+https://reddit.com/r/whoathatsinteresting whoathatsinteresting
+F:150981
+https://reddit.com/r/DigitalEscapeTools Reddit Digital Escape Tools
+https://reddit.com/r/VPN Reddit - Please wait for verification
+https://reddit.com/r/DataHoarder Reddit
+https://reddit.com/r/stocks Reddit
+https://reddit.com/r/comics Print Comics and Webcomics
+https://reddit.com/r/blender Reddit - r/blender
+F:1373860
+https://reddit.com/r/coolgithubprojects Reddit
+https://reddit.com/r/boardgames boardgames
+F:5402873
+https://reddit.com/r/booksuggestions Book Suggestions
+F:1330592
+https://reddit.com/r/deepweb Deep Web
+F:410607
+https://reddit.com/r/InternetIsBeautiful 10/10 would bookmark again
+F:16574089
+https://reddit.com/r/Hacking_Tutorials A forum for the security professionals and white hat hackers.
+F:422267
+https://reddit.com/r/handmade Handmade - Arts & Crafts Made by Hand
+F:624659
+https://reddit.com/r/ProgrammerHumor memesAndJokesAboutEverythingProgrammingAndCS
+F:4618884
+https://reddit.com/r/raspberry_pi Raspberry Pi - More than just magic mirrors and kodi!
+F:3256166
+https://reddit.com/r/gaming r/gaming
+F:47015269
+https://reddit.com/r/Music r/Music
+F:38317084
+https://reddit.com/r/degoogle DeGoogle - expel Google from your life
+F:431765
+https://reddit.com/r/conspiracy conspiracy
+F:2334672
+https://reddit.com/r/Asmongold Asmongold
+F:519590
+https://reddit.com/r/Futurology Future(s) Studies
+F:21615981
+https://reddit.com/r/history History
+F:18677347
+https://reddit.com/r/TravelHacks Travel Hacks
+F:5715063
+https://reddit.com/r/DnD DnD: Roll for Initiative!
+F:4222031
+https://reddit.com/r/compsci Computer Science: Theory and Application
+F:3982014
+https://reddit.com/r/Diablo Diablo on reddit
+F:506691
+https://reddit.com/r/aerospace aerospace: aviation, space, and related news
+F:117645
+https://reddit.com/r/linux Linux, GNU/Linux, free software...
+F:1825339
+https://reddit.com/r/writing Reddit - r/writing
+F:3250987
+https://reddit.com/r/programmingmemes Reddit - r/programmingmemes
+F:100235
+https://reddit.com/r/ChatGPT Reddit - r/ChatGPT
+F:11348022
+https://reddit.com/r/privacy Reddit - The heart of the internet
+F:1599317
+https://reddit.com/r/woahdude Reddit - The heart of the internet
+F:4289980
+https://reddit.com/r/manga Reddit - The heart of the internet
+F:4716014
+https://reddit.com/r/popular reddit
+F:11870543
+https://reddit.com/r/moviecritic Reddit - Please wait for verification
+F:902570
+https://reddit.com/r/OSINT Reddit - Please wait for verification
+https://reddit.com/r/aviation aviation
+F:2683193
+https://reddit.com/r/todayilearned Today I Learned (TIL)
+F:41385360
+https://reddit.com/r/Piracy/wiki/megathread Reddit - Dive into anything
+F:2676309
+https://reddit.com/r/Piracy Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ
+F:2677232
+https://reddit.com/r/technology /r/Technology
+F:20154666
+https://reddit.com/r/selfhosted Self-Hosted Alternatives to Popular Services
+F:705468
+https://reddit.com/r/Warhammer All things Warhammer!
+F:444621
+https://reddit.com/r/worldnews World News
+F:47100264
+https://reddit.com/r/science Reddit Science
+F:34340497
+https://reddit.com/r/Warhammer40k /r/Warhammer40k - Unofficial Home of 40k on Reddit
+F:1476599
+https://reddit.com/r/interestingasfuck Interesting As Fuck
+F:16115077
+https://reddit.com/r/DIY DIY
+F:27380232
+https://reddit.com/r/askscience AskScience: Got Questions? Get Answers.
+F:26214016
+https://reddit.com/r/Art Art
+F:22356081
+https://reddit.com/r/movies Movie News and Discussion
+F:37223608
+https://reddit.com/r/Damnthatsinteresting Reddit - The heart of the internet
+F:20111922
+https://reddit.com/r/memes Reddit - r/memes
+F:35645143
+https://reddit.com/r/CryptoMarkets Reddit - r/CryptoMarkets
+F:9927285
+https://reddit.com/r/vibecoding Reddit - Please wait for verification
+https://reddit.com/r/CryptoCurrency Cryptocurrency News & Discussion
+F:10044093
+https://reddit.com/r/news Reddit - r/news
+F:30923185
+https://reddit.com/r/anime /r/Anime
+F:14085844
+https://reddit.com/r/artificial Artificial Intelligence (AI)
+F:1227569
+Time: 0:3

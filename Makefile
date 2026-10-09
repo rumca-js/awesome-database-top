@@ -36,14 +36,14 @@ summary: lists
 
 lists: list-youtube list-github list-reddit
 list-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" > lists/youtube.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social > lists/youtube.txt --order-by page_rating_votes
 list-github:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" > lists/github.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --title --social > lists/github.txt --order-by page_rating_votes
 list-reddit:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" > lists/reddit.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --title --social > lists/reddit.txt --order-by page_rating_votes
 
 list-rss-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss > lists/rss_youtube.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss > lists/rss_youtube.txt --order-by page-rating-votes
 
 
 
