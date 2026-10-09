@@ -38,9 +38,9 @@ lists: list-youtube list-github
 list-youtube:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss > lists/youtube.txt
 list-github:
-    poetry run python ./dbanalyzer.py --db internet.db --search "*https://github.com/*" --rss > lists/github.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "*https://github.com/*" --rss > lists/github.txt
 list-reddit:
-    poetry run python ./dbanalyzer.py --db internet.db --search "*https://reddit.com/r/*" --rss > lists/reddit.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "*https://reddit.com/r/*" --rss > lists/reddit.txt
 
 example-search1:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
