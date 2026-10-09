@@ -375,7 +375,7 @@ F:146
 https://youtube.com/channel/UC7bxFmhgSQe4aMAwIw-lzsQ mattyballz
 F:541000
 https://youtube.com/channel/UCdOWyp25T0HDtjpnV2LpIyw EpicSkillshot - LoL VOD Library
-F:596000
+F:594000
 https://youtube.com/channel/UClh5azhOaKzdlThQFgoq-tw Protatomonster
 F:1220000
 https://youtube.com/channel/UCYf1mExa37eLyxY-iEjnanQ Zwag Xerath
@@ -723,7 +723,7 @@ F:72800000
 https://youtube.com/channel/UCK1i2UviaXLUNrZlAFpw_jA El Reino Infantil
 F:70100000
 https://youtube.com/channel/UCoQm-PeHC-cbJclKJYJ8LzA Fede Vigevani
-F:69600000
+F:79400000
 https://youtube.com/channel/UCbTLwN10NoCU4WDzLf1JMOA YRF
 F:69000000
 https://youtube.com/channel/UCffDXn7ycAzwL2LDlbyWOTw Canal KondZilla
@@ -739,23 +739,23 @@ F:70800000
 https://youtube.com/channel/UC4wEPe5mrHGAUjjTfXH_C-Q Anaya Kandhal
 F:64100000
 https://youtube.com/channel/UCVNouUw3d3l5JYVCxhAQXKA Bispo Bruno Leonardo
-F:62100000
+F:76900000
 https://youtube.com/channel/UC0Wju2yvRlfwqraLlz5152Q PANDA BOI
-F:60500000
+F:62400000
 https://youtube.com/channel/UCyagEfIN1okQ-s996XAqCFQ Zhong
 F:60200000
 https://youtube.com/channel/UCBOmfqgTZi7yDp4-3Lr_3lA Shemaroo Movies
-F:38000000
+F:39900000
 https://youtube.com/channel/UCXbYlU08sOTBktOtjVsvR6w ToRung
 F:58900000
 https://youtube.com/channel/UCMgapddJymOC6MBOiOqia1A आचार्य प्रशान्त - Acharya Prashant
-F:58500000
+F:61000000
 https://youtube.com/channel/UCEdvpU2pFRCVqU6yIPyTpMQ Marshmello
-F:58100000
+F:587
 https://youtube.com/channel/UC3MLnJtqc_phABBriLRhtgQ SonyMusicIndiaVEVO
-F:58100000
+F:60200000
 https://youtube.com/channel/UC_A7K2dXFsTMAciGmnNxy-Q Saregama Music
-F:58300000
+F:64900000
 https://youtube.com/channel/UCRx3mKNUdl8QE06nEug7p6Q Billion Surprise Toys
 F:58000000
 https://youtube.com/channel/UCqJ5zFEED1hWs0KNQCQuYdQ Mikecrack
@@ -842,7 +842,7 @@ F:22600000
 https://youtube.com/channel/UC554eY5jNUfDq3yDOJYirOQ Destiny
 F:849000
 https://youtube.com/channel/UCQznUf1SjfDqx65hX3zRDiA DrakeVEVO
-F:31500000
+F:33200000
 https://youtube.com/channel/UCoYfzC2zMlc9M-Odgaf6OSg KendrickLamarVEVO
 F:19700000
 https://youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g dojacatVEVO
@@ -1887,9 +1887,9 @@ F:2670000
 https://youtube.com/channel/UC4yh9rj_cPT77it63N14HQg Lex - Brawl Stars
 F:1390000
 https://youtube.com/channel/UCmEO_9hLHnZE1lvMNtPgDow Maciek i Klocki
-F:323000
+F:325000
 https://youtube.com/channel/UC1BIOZPjE3lYa2s3ZT1kYaA Lakko
-F:1000000
+F:1010000
 https://www.youtube.com/channel/UCHSOqo1eYLPaoY82fMs7_Rw National Geographic Africa
 F:79400
 https://youtube.com/channel/UCXMGxZAk3PAzm04lKwk-vCA Java Discover | Free Global Documentaries & Clips
@@ -1967,6 +1967,55 @@ https://youtube.com/channel/UCu6H0owNo5Cm_J2znpYBjGA Underworld
 F:2000000
 https://youtube.com/channel/UCyuj5evMBVwyGrqfoKegmBw ODS
 F:1280000
+https://youtube.com/channel/UCV21jNkPlAtyaJRlVO-xBog DarDar - SuperHero
+https://youtube.com/channel/UCvwDNr7ec4Qaa_25VYOMhxg KingsOfFailsShow
+F:1570000
+https://youtube.com/channel/UC9VQ6w1h8WzqJlxX8OwdYEA Simi
+F:1140000
+https://youtube.com/channel/UCgh8IAvIz1mxWMdCtiiVJBg Simi
+F:1450000
+https://youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA agadmator's Chess Channel
+F:1350000
+https://youtube.com/channel/UCEcjZ5Vz6ygmDbtmce6N_zA GurinelTV
+https://youtube.com/channel/UCQdgVr3dEAeUvDbhSHAw4Gg IULITMx
+F:9620000
+https://youtube.com/channel/UCfz5rmyvOJK16EBW7ILaahQ TraLaLa - Cantece si desene animate pentru copii
+https://youtube.com/channel/UCGc991mofGxjO3-haaRENDg Dani Mocanu
+F:4450000
+https://youtube.com/channel/UCSmrKgWDGSlTypALaD-tWhA Dorian Popa
+F:2440000
+https://youtube.com/channel/UCmb13DIXlpo_IIkVtS6mWqw Paradoxo Obscuro
+F:5950000
+https://youtube.com/channel/UCN3Grwgu5ZFNZzkl4IY3V1w Temperos e Sabores
+F:5090000
+https://youtube.com/channel/UC4XR0EZ0oHwSV2XhhShzX5A Crazy Frog
+F:19000000
+https://youtube.com/channel/UChVRfsT_ASBZk10o0An7Ucg Pamela Reif
+F:10800000
+https://youtube.com/channel/UCC9h3H-sGrvqd2otknZntsQ freekickerz
+F:8450000
+https://youtube.com/channel/UCTXeJ33DzXI2veQpKfrvaYw Julien Bam
+F:6190000
+https://youtube.com/channel/UCATWUurs5SImDMX_prUtxng Matt Larose
+F:20800000
+https://youtube.com/channel/UC_GHCt-0IXbVnfDTB6Y88hA Luke Davidson Shorts
+F:1980000
+https://youtube.com/channel/UCqVCSWnuOSPm26orvNDTuWQ TG Plays
+F:9390000
+https://youtube.com/channel/UCyI6QRxXArFsfWlMdvoG2hw Karla Bustillos
+F:53300000
+https://youtube.com/channel/UCaK9J_lZbUjVixFHuP4vYag Ricky Limon
+F:50300000
+https://youtube.com/channel/UCLYqpLGnCoQfcD7BdDKsSxQ Mariano Razo
+F:48600000
+https://youtube.com/channel/UCYWOjHweP2V-8kGKmmAmQJQ Badabun
+F:47600000
+https://youtube.com/channel/UCUSdNXmG2LlNS01ptoq24MA Shawar
+F:15400000
+https://youtube.com/channel/UCffdZGxiVRy3i9EaZF4m0wA PlanetaOfficial
+F:2750000
+https://youtube.com/channel/UCJ40ytnFrzko0B1Kqb5AvdQ The Clashers
+F:1650000
 https://youtube.com/channel/UCDBrVr0ttWpoRY-_yZajp2Q alyankovic
 F:3140000
 https://youtube.com/channel/UCK21A_tXPqzb1cQD7UOo9zQ RobSmithDev
@@ -2238,7 +2287,7 @@ F:5140000
 https://youtube.com/channel/UCazRf1jcMNZEL1MS5i_rWQQ Midwest Safety
 F:3430000
 https://youtube.com/channel/UC5fy9izAhlANCISUdU8quDg Newel of Knowledge
-F:594000
+F:723000
 https://youtube.com/channel/UCs_bV79AmugXVvjaASibPnw KhAnubis
 F:279000
 https://youtube.com/channel/UCu0CCEzTTntkXUUdJC20i1w Jamie's Brick Jams
@@ -2540,6 +2589,62 @@ https://youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg All-In Podcast
 F:1150000
 https://youtube.com/channel/UC59ZRYCHev_IqjUhremZ8Tg Harry Mack
 F:3360000
+https://youtube.com/channel/UC6c6cGUhx3SHnlTtqUBuhyg Hit Pause
+F:14900000
+https://youtube.com/channel/UCCJFWxm9fUtB4hPzNvmfcMA James May’s Planet Gin
+F:959000
+https://youtube.com/channel/UCAr8_yIBSIEsZ5fTIIqIKGQ CANAL+ Sport Afrique
+F:1630000
+https://youtube.com/channel/UC86suRFnqiw8zN6LIYxddYQ Khaby. Lame
+F:13000000
+https://youtube.com/channel/UCaKZDEMDdQc8t6GzFj1_TDw Be Inspired
+F:9360000
+https://youtube.com/channel/UCtke4StIE5z2EiF85Zeqb-A Selly
+F:3940000
+https://youtube.com/channel/UCtn4sFXvAW1il1MKDja11YA iRaffael
+F:2740000
+https://youtube.com/channel/UCKWGr9VyIYn_c6gXbYctH3w WildBrain Crianças
+https://youtube.com/channel/UCaMYfhdKrlqqEpkynPvgVQw SirKazzio
+F:4860000
+https://youtube.com/channel/UC7wseMScXyaEP7ubWutNZmQ D4rkFrame
+F:4850000
+https://youtube.com/channel/UCSHSIx0CttXzzuT3YLVZC7Q wuant
+F:3670000
+https://youtube.com/channel/UCymK_3BWUcoYVVf5D_GmACQ Tsuriki Show
+F:36000000
+https://youtube.com/channel/UClR74BSOFXxMOKtuaaPu91Q Younes Zarou
+F:27700000
+https://youtube.com/channel/UCCfKlFlKYBxZ-UU2dWc17IQ boxtoxtv
+F:24100000
+https://www.youtube.com/channel/UCqsS8fU6yVxrJr5y_CoUn3w HaerteTest
+F:19500000
+https://youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg Masha y el Oso
+https://youtube.com/channel/UCECJDeK0MNapZbpaOzxrUPA Luisito Comunica
+F:46000000
+https://youtube.com/channel/UCoTKPFIScLhM2iU60KoqG9A 7amoda Gaming
+F:16100000
+https://youtube.com/channel/UCUV1NnogAOjhm1H0_wL-O-g Ahmed Karim
+F:13300000
+https://youtube.com/channel/UC3CxEBKx2l38nl1_SFsC2gg Flying The Nest
+F:1250000
+https://youtube.com/channel/UCEDrRCC0qRtPd5-sSa1hajw The Endless Adventure
+F:672000
+https://youtube.com/channel/UCEIs9nkveW9WmYtsOcJBwTg Itchy Boots
+F:3410000
+https://youtube.com/channel/UCU1wi0E8d98o0KTaOGJbieg Paddy Doyle
+F:341000
+https://youtube.com/channel/UCMNYT-1rpCPtdv4K3vnCQkQ Retired Working For You
+F:458000
+https://youtube.com/channel/UCKr68ZJ4vv6VloNdnS2hjhA Harald Baldr
+F:2390000
+https://youtube.com/channel/UCuS5fmeEDpnW5JPMdRhGm7A Making it happen Vlog
+F:587000
+https://youtube.com/channel/UCZoyvbKiMXuj-0QLFDit7YQ Krypto Trekker
+F:497000
+https://youtube.com/channel/UCzfEqx1_-zs2xUUzI3jVRSg FinnSnow
+F:542000
+https://youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg Intellipaat
+F:13400000
 https://youtube.com/channel/UCLwNTXWEjVd2qIHLcXxQWxA Timcast IRL
 F:2780000
 https://youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA Joshua Fluke
@@ -2579,7 +2684,7 @@ F:619
 https://youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA Naomi Brockwell TV
 F:447000
 https://youtube.com/channel/UCnF4-A-RrjLe0M4LBx_CA8A CookieBlox
-F:423000
+F:424000
 https://youtube.com/channel/UCRBpynZV0b7ww2XMCfC17qg Bad Friends
 F:2490000
 https://youtube.com/channel/UCPb3-sVCHv6Z_KVfABPp8Iw Złomnik
@@ -3090,6 +3195,24 @@ https://youtube.com/channel/UCYNyKRHBzd7UPRUtDhofUKg Language Simp
 F:1670000
 https://youtube.com/channel/UCCwUTfKeDj4p9uTNrn9U6Sw BBC Archive
 F:789000
+https://youtube.com/channel/UCH4Bz5Swatl5iHSuCT_Hlxg Mythology & Fiction Explained
+F:1550000
+https://youtube.com/channel/UCO6nDCimkF79NZRRb8YiDcA Storied
+F:1130000
+https://youtube.com/channel/UCp6F1mQGuaXiDj5otWBmIjg EckhartsLadder
+F:1060000
+https://youtube.com/channel/UChJX37Qpc8U-xQDmm4DcGyA Vamos ART
+F:2080000
+https://youtube.com/channel/UCxuBvuxd7lU7fx-8aactdVA mercuri_88
+F:15400000
+https://youtube.com/channel/UC09GemGjss3hPdljwtJ8TPA HAUSER
+F:3780000
+https://youtube.com/channel/UCPJ61cXBMjpjyCcb5OhUzEg Doctor D.S.
+F:3080000
+https://youtube.com/channel/UC2-w05bbwwvcJTrWhZH9NcA Affiliate Labs
+F:1580000
+https://youtube.com/channel/UCJCj2HtcnbOyCj1rmKaxwJg Mohamed Ramadan I محمد رمضان
+F:16400000
 https://youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vg The Escapist
 F:1110000
 https://youtube.com/channel/UCQuSMKcwirmoLvzR4qlKjoQ ProstoTV
@@ -3143,7 +3266,7 @@ F:2460000
 https://youtube.com/channel/UCDyz_T0uPt66D_b4kukhdDA Cesar Millan
 F:3610000
 https://youtube.com/channel/UCSAUGyc_xA8uYzaIVG6MESQ nigahiga
-F:20800000
+F:20700000
 https://youtube.com/channel/UCb31gOY6OD8ES0zP8M0GhAw Max Fosh
 F:4770000
 https://youtube.com/channel/UCF1fG3gT44nGTPU2sVLoFWg Patrick (H) Willems
@@ -3397,7 +3520,7 @@ F:1930000
 https://youtube.com/channel/UCQYLwxbnXGV8OgF6FEk20QA Podróże Busem Przez Świat
 F:234000
 https://youtube.com/channel/UCLCOaNcR6kSbI1OXu83uipg Real Life Fake Wizard
-F:156000
+F:163000
 https://youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ Apple Developer
 F:326000
 https://youtube.com/channel/UCbsfyGlrjrKQC0gbzK0-EiA Jared Owen
@@ -3414,6 +3537,8 @@ F:1500000
 https://youtube.com/channel/UCcOQFuXnvDuIac2u2DKB7rA Josh the Intern
 https://youtube.com/channel/UCEjBDKfrqQI4TgzT9YLNT8g Ghost Town Living
 F:2180000
+https://youtube.com/channel/UCHhnmFaQSJlOgpjGvX_wOVw MindQ
+F:447000
 https://youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ Andreas Spiess
 F:519000
 https://youtube.com/channel/UC3osNjJeuDdvyALIEP-nh0g Behind the Curtain
@@ -3705,7 +3830,7 @@ F:1280000
 https://youtube.com/channel/UC1a2ZCw7tugRZYRMnecNj3A Celine Dept
 F:56600000
 https://youtube.com/channel/UCJrDMFOdv1I2k8n9oK_V21w Tips Official
-F:78300000
+F:82500000
 https://youtube.com/channel/UCFrj6EBhnHlWqmvuwH1Ue4g Fairbairn Films
 F:1680000
 https://youtube.com/channel/UCWOom9E_zqXS0VdWW949WUA Time Records
@@ -3769,13 +3894,13 @@ F:1340000
 https://youtube.com/channel/UCOuWeOkMrq84u5LY6apWQ8Q TREY the Explainer
 F:1110000
 https://youtube.com/channel/UC415bOPUcGSamy543abLmRA Cleo Abram
-F:7840000
+F:8830000
 https://youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g Khan Academy
 F:9050000
 https://youtube.com/channel/UCzJ53fi4NuDCYWOk9PtEkCA _vector_
-F:31400000
+F:33100000
 https://youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA styropyro
-F:2820000
+F:3110000
 https://youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw William Osman
 F:3030000
 https://youtube.com/channel/UCSb_Sui6FBxVS4_ROsrU_Iw Natural Habitat Shorts
@@ -3787,7 +3912,7 @@ F:1070000
 https://youtube.com/channel/UCONd1SNf3_QqjzjCVsURNuA AntsCanada
 F:6700000
 https://youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ The Action Lab
-F:5000000
+F:5170000
 https://youtube.com/channel/UC4xDcLGTEslWvwBD7HAogqQ Good Enough
 F:1300000
 https://youtube.com/channel/UCtRFmSyL4fSLQkn-wMqlmdA History of the Universe
@@ -3825,7 +3950,7 @@ F:1340000
 https://youtube.com/channel/UCu6mSoMNzHQiBIOCkHUa2Aw Cody'sLab
 F:2220000
 https://youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw The Engineering Mindset
-F:4350000
+F:4480000
 https://youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q Everyday Astronaut
 F:1950000
 https://youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw TheBackyardScientist
@@ -4986,7 +5111,7 @@ F:325000
 https://youtube.com/channel/UCdgUN8rX3SEb9L7FDub3I6A Design Theory
 F:772000
 https://youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ The Weeknd
-F:39600000
+F:40100000
 https://youtube.com/channel/UCwBUybLI4CW1xTq-ctj3kog Kanał Bez Cenzury - Wojciech Dzierwa
 https://youtube.com/channel/UCudKvbd6gvbm5UCYRk5tZKA TheSoundYouNeed
 F:5490000
@@ -5051,9 +5176,9 @@ F:19100000
 https://youtube.com/channel/UCwzfmK3YWOGPjrF0UDvzQ-Q The New Travel
 F:405000
 https://youtube.com/channel/UCNqYc-ojesF6AbXwiWdZbeg Yellow Purple
-F:161000
+F:163000
 https://youtube.com/channel/UCzoWo7ZpqhlhVxhqfFAqHAQ Yeagerists
-F:1320000
+F:1340000
 https://youtube.com/channel/UCNW6J6bFBIAmvbrnE0rCPnA Google Gemini
 F:20900
 https://youtube.com/channel/UCmpeiAqd6aoIQO1REpsHZig National Geographic Asia
@@ -5102,6 +5227,14 @@ https://youtube.com/channel/UCNYsIqBwQyhnNDVf7SXJV9w Exploring With Josh
 F:4820000
 https://www.youtube.com/channel/UCvSXMi2LebwJEM1s4bz5IBA NO TITLE
 F:1100000
+https://youtube.com/channel/UCR4ZpFWX29p4YCajQA5fcfQ TechJoyce
+F:2850000
+https://youtube.com/channel/UCb4UAZwZqS4a35FrBcLlMXA CANAL+
+F:1780000
+https://youtube.com/channel/UConcWaTXEhp5TbFQOxA97QQ R3D ONE Official
+F:2370000
+https://youtube.com/channel/UC_tXKhJlqZrgr_qdhEKmrDQ kold
+F:137
 https://youtube.com/channel/UC_kH5ltlZdtFAY2qV_lp2xA Vince Vintage
 F:785000
 https://youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg WatchMojo.com
@@ -5289,7 +5422,7 @@ F:427000
 https://youtube.com/channel/UCb8sfMalVgTMvA68dfKzA5Q Elephants in Rooms - Ken LaCorte
 F:925000
 https://youtube.com/channel/UCdhDOlwIuY0yR-KxlblnsxQ Robonyx
-F:363000
+F:366000
 https://youtube.com/channel/UCLdQc5zUbFpM4Y0iKfESDTA Shulkercraft
 F:2530000
 https://youtube.com/channel/UC4CsqctrGOn4NTz09sAhXwQ Macho Nacho Productions
@@ -5329,7 +5462,7 @@ F:3700000
 https://youtube.com/channel/UC9BMWLruGWsr1nTzFqmMfHw The Meme Sheep
 F:1720000
 https://youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A JustinBieberVEVO
-F:78200000
+F:79400000
 https://youtube.com/channel/UCr613nJgA50o8DUUT00qHvw WULFF DEN
 F:951000
 https://youtube.com/channel/UCQqDe7by1atZWNmFgq5wsLw LEGO Land
@@ -5583,7 +5716,7 @@ F:568000
 https://youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw Michael Reeves
 F:7730000
 https://youtube.com/channel/UCUtsRCYEE-hCPsftezm9wzA Miscast
-F:172000
+F:175000
 https://youtube.com/channel/UCrTkWZb_-iNPzknoQeVkH1g Miniac
 F:373000
 https://youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A Academy of Ideas
@@ -5609,7 +5742,7 @@ F:2990000
 https://youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ hbomberguy
 F:1860000
 https://youtube.com/channel/UCnorhjQR4zJkT7AVNhu395Q Home RenoVision DIY
-F:4080000
+F:4300000
 https://youtube.com/channel/UCP2vaEZS8MvZrFklwBtW1GA Home Repair Tutor
 F:710000
 https://youtube.com/channel/UCQDhxkSxZA6lxdeXE19aoRA Hugh Jeffreys
@@ -6192,7 +6325,7 @@ F:3560000
 https://youtube.com/channel/UC0woBco6Dgcxt0h8SwyyOmw Megaprojects
 F:1570000
 https://youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg Mark Rober
-F:76700000
+F:83700000
 https://youtube.com/channel/UCYBetkejPxK8t_41zueazcA T5G
 F:1490000
 https://youtube.com/channel/UCigygyPkHm07o-wQvkET7Og George Collier
@@ -6246,9 +6379,9 @@ F:2630000
 https://youtube.com/channel/UCuxpxCCevIlF-k-K5YU8XPA Scotty Kilmer
 F:6640000
 https://youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg Movieclips
-F:66100000
+F:66700000
 https://youtube.com/channel/UCisWUR5UCMcxz_4zT6mI3kA FilmComicsExplained
-F:1100000
+F:1110000
 https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw Dave's Garage
 F:1120000
 https://youtube.com/channel/UCAYmlecATSG0wc5IxsFJSbQ Doug Sharpe
@@ -6631,8 +6764,6 @@ https://youtube.com/channel/UCk7SjrXVXAj8m8BLgzh6dGA Intel
 F:569000
 https://youtube.com/channel/UCQatgKoA7lylp_UzvsLCgcw 腾讯视频 - Get the WeTV APP
 F:9160000
-https://youtube.com/channel/UCHuiy8bXnmK5nisYHUd1J5g NVIDIA
-F:2240000
 https://youtube.com/channel/UCVzLLZkDuFGAE2BGdBuBNBg Bluey - Official Channel
 F:14700000
 https://youtube.com/channel/UCw2UzCjjb3-QWesGm9rDN3w Unreal Downey
@@ -6710,7 +6841,7 @@ F:248000
 https://youtube.com/channel/UCAxYH9DWyVmMpS9NgyxoTFQ AlanBeckerTutorials
 F:1100000
 https://youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg Mr Bean
-F:35500000
+F:36100000
 https://youtube.com/channel/UCmT69Nr6zmp4DMW3IZee6zw The Bear Essentials
 F:1450000
 https://youtube.com/channel/UCrnCSQJB4c1_rOKJRzSZemg Chris Notap
@@ -6873,9 +7004,9 @@ F:652000
 https://youtube.com/channel/UCXF0YCBWewAj3RytJUAivGA Stromae
 F:8290000
 https://youtube.com/channel/UCUfbrZA6H_7UIghIht1q6xg The Ryan George Show
-F:14100
+F:59400
 https://youtube.com/channel/UCVW5_U7e5ruoIQ6FzUE7wRA Hacktuber
-F:1480000
+F:1490000
 https://youtube.com/channel/UC61NF20ZcIsbzJB7_IyURsQ Gates of Imagination
 F:228000
 https://youtube.com/channel/UCg4vDcovXPJTcTcYxQ9iCrw wavywebsurf
@@ -6885,6 +7016,8 @@ F:3400000
 https://youtube.com/channel/UC766vkQw0Mz3VtXX5XvXxGQ Meta VR
 F:707000
 https://youtube.com/channel/UCrJ6nAyzf6TXQHZegblxfmg Nathie
+https://youtube.com/channel/UC_kRDKYrUlrbtrSiyu5Tflg Daft Punk
+F:7190000
 https://youtube.com/channel/UCgaUhKGduoJAJSAJbWlbQwA Mullet-Man Comics
 F:752000
 https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw 3Blue1Brown
@@ -7297,6 +7430,8 @@ https://youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A OpenAI
 F:2060000
 https://youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg Amazon Prime Video UK & IE
 F:3820000
+https://youtube.com/channel/UCHuiy8bXnmK5nisYHUd1J5g NVIDIA
+F:2240000
 https://youtube.com/channel/UCj74rJ9Lgl3WTngq675wxKg Noodle
 F:1360000
 https://youtube.com/channel/UCsNGtpqGsyw0U6qEG-WHadA DJI
@@ -7344,7 +7479,7 @@ F:916000
 https://youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw Coffeezilla
 F:4720000
 https://youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg Joe Scott
-F:2480000
+F:2560000
 https://youtube.com/channel/UCLr4hMhk_2KE0GUBSBrspGA Kuba Klawiter
 F:1020000
 https://youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw Linus Tech Tips
@@ -7356,7 +7491,7 @@ F:2500000
 https://youtube.com/channel/UClOGLGPOqlAiLmOvXW5lKbw MandaloreGaming
 F:974000
 https://youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ Marques Brownlee
-F:20800000
+F:21400000
 https://youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ PowerfulJRE
 F:21100000
 https://youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow SciShow
@@ -7364,7 +7499,7 @@ F:8370000
 https://youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA TechLinked
 F:1980000
 https://youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A Tom Scott
-F:6630000
+F:6740000
 https://youtube.com/channel/UCNu7GSRF7Y10OIWHQHpAx1g BezPlanu
 F:707000
 https://youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ CaseyNeistat
@@ -7552,7 +7687,7 @@ F:5510000
 https://youtube.com/channel/UCN9HPn2fq-NL8M5_kp4RWZQ Sia
 F:24600000
 https://youtube.com/channel/UCfM3zsQsOnfWNUppiycmBuw EminemMusic
-F:66200000
+F:67300000
 https://youtube.com/channel/UCuHzBCaKmtaLcRAOoazhCPA Beyoncé
 F:28600000
 https://youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w David Bombal
@@ -7572,11 +7707,11 @@ F:3580000
 https://youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw IGN
 F:20000000
 https://youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA Veritasium
-F:20300000
+F:21300000
 https://youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ Corridor Crew
 F:7170000
 https://youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q Kurzgesagt – In a Nutshell
-F:25100000
+F:25700000
 https://youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A NPR Music
 F:13000000
 https://youtube.com/channel/UCmKurapML4BF9Bjtj4RbvXw The Piano Guys
@@ -7632,7 +7767,7 @@ F:10100000
 https://youtube.com/channel/UCunF8Uii3BUWodEWosknwww Chat Music
 F:1060000
 https://youtube.com/channel/UC1sELGmy5jp5fQUugmuYlXQ Minecraft
-F:17200000
+F:23100000
 https://youtube.com/channel/UCQG4cX86zZ51IU2cerZgPSA Awkward Puppets
 F:2770000
 https://youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg Nat Geo Kids
@@ -7689,4 +7824,4 @@ https://youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA Marvel Entertainment
 F:22300000
 https://youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw Netflix
 F:33700000
-Time: 0:0
+Time: 0:22

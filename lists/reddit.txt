@@ -55,6 +55,7 @@ F:329171
 https://reddit.com/r/firefox Reddit - Please wait for verification
 https://reddit.com/r/pihole Reddit - Please wait for verification
 https://reddit.com/r/lotrmemes Reddit
+https://reddit.com/r/BestGitHubRepos Reddit
 https://reddit.com/r/Malware Malware Analysis & Reports
 F:89342
 https://reddit.com/r/programminghorror Reddit - programminghorror
@@ -236,8 +237,6 @@ https://reddit.com/r/writing Reddit - r/writing
 F:3250987
 https://reddit.com/r/programmingmemes Reddit - r/programmingmemes
 F:100235
-https://reddit.com/r/ChatGPT Reddit - r/ChatGPT
-F:11348022
 https://reddit.com/r/privacy Reddit - The heart of the internet
 F:1599317
 https://reddit.com/r/woahdude Reddit - The heart of the internet
@@ -279,6 +278,8 @@ https://reddit.com/r/Art Art
 F:22356081
 https://reddit.com/r/movies Movie News and Discussion
 F:37223608
+https://reddit.com/r/ChatGPT Reddit - r/ChatGPT
+F:11348022
 https://reddit.com/r/Damnthatsinteresting Reddit - The heart of the internet
 F:20111922
 https://reddit.com/r/memes Reddit - r/memes
