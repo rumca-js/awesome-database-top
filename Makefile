@@ -3,7 +3,7 @@ ARCHIVE_NAME = internet.db.zip
 SOURCE_FILE = internet.db
 
 # Declare phony targets
-.PHONY: zip unzip clean server pack-split unpack-split example-search lists list-youtube list-github
+.PHONY: zip unzip clean server pack-split unpack-split example-search lists list-youtube list-github list-reddit
 
 # Rule to create a zip archive split into 50MB parts
 
@@ -39,6 +39,8 @@ list-youtube:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss > lists/youtube.txt
 list-github:
     poetry run python ./dbanalyzer.py --db internet.db --search "*https://github.com/*" --rss > lists/github.txt
+list-reddit:
+    poetry run python ./dbanalyzer.py --db internet.db --search "*https://reddit.com/r/*" --rss > lists/reddit.txt
 
 example-search1:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
