@@ -31,16 +31,21 @@ clean:
 server:
 	python3 -m http.server 8000
 
-summary:
+summary: lists
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
-lists: list-youtube list-github
+lists: list-youtube list-github list-reddit
 list-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "*youtube.com/channel*" --rss > lists/youtube.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" > lists/youtube.txt
 list-github:
-	poetry run python ./dbanalyzer.py --db internet.db --search "*https://github.com/*" --rss > lists/github.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" > lists/github.txt
 list-reddit:
-	poetry run python ./dbanalyzer.py --db internet.db --search "*https://reddit.com/r/*" --rss > lists/reddit.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" > lists/reddit.txt
+
+list-rss-youtube:
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss > lists/rss_youtube.txt
+
+
 
 example-search1:
 	poetry run python ./dbanalyzer.py --db internet.db --search "*Warhammer*" --tags --social --title --description --status
