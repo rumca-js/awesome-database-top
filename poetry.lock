@@ -357,14 +357,14 @@ all = ["coverage (>=7.10.0)", "hypothesis (>=6.141.1)", "mypy (>=1.11.2)", "pyte
 
 [[package]]
 name = "linkarchivetools"
-version = "1.0.31"
+version = "1.0.32"
 description = "Link Archive Tools"
 optional = false
 python-versions = "<4.0,>=3.10"
 groups = ["main"]
 files = [
-    {file = "linkarchivetools-1.0.31-py3-none-any.whl", hash = "sha256:b87ca6ffb1fc77e7b773425a305b8e17d381b7ddfc18798d85f9fdb0127f623c"},
-    {file = "linkarchivetools-1.0.31.tar.gz", hash = "sha256:3a75f3b33f6e0f37b5f35bc889f33e3f63896c8cbf4326967ea2739119a77261"},
+    {file = "linkarchivetools-1.0.32-py3-none-any.whl", hash = "sha256:df53d9088f8ce59da5b4e7003c4723f91725acf86a9e11e2e0e735bdc1e5e5ad"},
+    {file = "linkarchivetools-1.0.32.tar.gz", hash = "sha256:17705aaa5a146048f2d892b682f7357ce296477ae44afb2aca4ea4d377a8fbff"},
 ]
 
 [package.dependencies]
@@ -953,4 +953,4 @@ url-cleaner = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "6785a7f12f3384d739f58a918ab48995edb75cd97fe82406cf55d14b1f3e28d2"
+content-hash = "fe558dde57b99343fe97680c5ba30299316c1417e7bf9e85ec4e5dbe0a238934"
