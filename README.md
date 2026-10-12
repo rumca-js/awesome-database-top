@@ -44,11 +44,11 @@ uservotes, count: 0
 
 Provides lists of links
  - [awesome links](lists/awesome.links)
- - lists/github.links
- - lists/github_ai.links
- - lists/reddit.links
- - lists/youtube.json
- - lists/rss_youtube.json
+ - [github proejcts](lists/github.links)
+ - [github AI projects](lists/github_ai.links)
+ - [reddit channels](lists/reddit.links)
+ - [youtube](lists/youtube.json)
+ - [RSS youtube](lists/rss_youtube.json)
 
 # Demo
 
