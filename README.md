@@ -1,7 +1,6 @@
 # Top places database
 
-Awesome database containing only top domains and places.
-
+Table usage
 ```
 apikeys, count: 0
 applogging, count: 0
