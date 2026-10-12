@@ -34,7 +34,7 @@ server:
 summary: lists
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
-lists: list-youtube list-github list-reddit list-rss-youtube
+lists: list-youtube list-github list-github-ai list-reddit list-rss-youtube list-awesome-links
 list-youtube:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/youtube.json
 list-github:
@@ -48,7 +48,7 @@ list-rss-youtube:
 list-github-ai:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/* & tags__tag=*artificial intel*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github_ai.links
 
-list-awesome-lists:
+list-awesome-links:
 	poetry run python ./dbanalyzer.py --db internet.db --search "tags__tag=*awesome list*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/awesome.links
 
 
