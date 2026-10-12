@@ -1,6 +1,6 @@
-# awesome-database-top
+# Top places database
 
-Awesome database containing top domains and places.
+Awesome database containing only top domains and places.
 
 ```
 apikeys, count: 0
@@ -42,6 +42,14 @@ usersearchhistory, count: 0
 usertags, count: 0
 uservotes, count: 0
 ```
+
+Provides lists of links
+ - lists/awesome.links
+ - lists/github.links
+ - lists/github_ai.links
+ - lists/reddit.links
+ - lists/youtube.json
+ - lists/rss_youtube.json
 
 # Demo
 
