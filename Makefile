@@ -36,15 +36,17 @@ summary: lists
 
 lists: list-youtube list-github list-reddit list-rss-youtube
 list-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/youtube.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/youtube.json
 list-github:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github.links
 list-reddit:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --order-by page_rating_votes --order-by "social__followers_count" --desc > lists/reddit.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --order-by page_rating_votes --order-by "social__followers_count" --desc > lists/reddit.links
 
 list-rss-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --rss  --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/rss_youtube.txt
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --rss  --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/rss_youtube.json
 
+list-github-ai:
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/* & tags__tag=artificial" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github_ai.links
 
 
 example-search1:
