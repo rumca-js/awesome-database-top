@@ -43,7 +43,7 @@ uservotes, count: 0
 ```
 
 Provides lists of links
- - lists/awesome.links
+ - [awesome links](lists/awesome.links)
  - lists/github.links
  - lists/github_ai.links
  - lists/reddit.links
