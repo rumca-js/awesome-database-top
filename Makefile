@@ -46,13 +46,13 @@ list-rss-youtube:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --rss  --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/rss_youtube.json
 
 list-github-ai:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/* & tags__tag=*artificial intel*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github_ai.links
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/* & tags__tag=*artificial intel*" --order-by "social__stars" --desc > lists/github_ai.links
 
 list-awesome-links:
-	poetry run python ./dbanalyzer.py --db internet.db --search "tags__tag=*awesome list*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/awesome.links
+	poetry run python ./dbanalyzer.py --db internet.db --search "tags__tag=*awesome list*" --order-by page_rating_votes --desc > lists/awesome.links
 
 list-ai:
-	poetry run python ./dbanalyzer.py --db internet.db --search "tags__tag=*artificial intel*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/ai.links
+	poetry run python ./dbanalyzer.py --db internet.db --search "tags__tag=*artificial intel*" --order-by page_rating_votes --desc > lists/ai.links
 
 
 example-search1:
