@@ -1,6 +1,25 @@
 # Top places database
 
-Table usage
+Provides:
+ - top domains
+ - youtube channels (see exported lists below)
+ - some reddit channels
+ - some x channels
+
+Provides lists of links
+ - [awesome links](lists/awesome.links)
+ - [GitHub proejcts](lists/github.links)
+ - [GitHub AI projects](lists/github_ai.links)
+ - [Reddit channels](lists/reddit.links)
+ - [YouTube channels](lists/youtube.json)
+ - [YouTube channels RSS feeds](lists/rss_youtube.json)
+
+# Demo
+
+Demo can be found at https://rumca-js.github.io/search?search=
+
+# Schema
+
 ```
 apikeys, count: 0
 applogging, count: 0
@@ -42,19 +61,7 @@ usertags, count: 0
 uservotes, count: 0
 ```
 
-Provides lists of links
- - [awesome links](lists/awesome.links)
- - [github proejcts](lists/github.links)
- - [github AI projects](lists/github_ai.links)
- - [reddit channels](lists/reddit.links)
- - [youtube](lists/youtube.json)
- - [RSS youtube](lists/rss_youtube.json)
-
-# Demo
-
-Demo can be found at https://rumca-js.github.io/search?search=
-
-# awesome databases
+# Other awesome databases
 
  - https://github.com/rumca-js/awesome-database-awesomelists
  - https://github.com/rumca-js/awesome-database-top
