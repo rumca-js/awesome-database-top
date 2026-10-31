@@ -8,7 +8,9 @@ SOURCE_FILE = internet.db
 # Rule to create a zip archive split into 50MB parts
 
 filter:
-	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate
+	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate --truncate-table sourcedatamodel
+	poetry run python dbupdate.py --db internet.db --truncate-table sourcecategories
+	poetry run python dbupdate.py --db internet.db --truncate-table sourcesubcategories
 
 zip:
 	zip $(ARCHIVE_NAME) $(SOURCE_FILE)

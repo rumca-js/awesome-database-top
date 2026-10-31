@@ -45,10 +45,10 @@ readlater, count: 0
 searchhistory, count: 0
 searchview, count: 13
 socialdata, count: 36242
-sourcecategories, count: 14
-sourcedatamodel, count: 55
+sourcecategories, count: 0
+sourcedatamodel, count: 0
 sourceoperationaldata, count: 0
-sourcesubcategories, count: 17
+sourcesubcategories, count: 0
 user, count: 0
 userbookmarks, count: 0
 usercomments, count: 0
