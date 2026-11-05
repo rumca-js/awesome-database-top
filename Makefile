@@ -11,6 +11,7 @@ filter:
 	poetry run python dbupdate.py --db internet.db --trunc-no-users --delete-redundant --trunc-search-data --truncate-table domains --trunc-configuration --trunc-dynamic-data --obfuscate --truncate-table sourcedatamodel
 	poetry run python dbupdate.py --db internet.db --truncate-table sourcecategories
 	poetry run python dbupdate.py --db internet.db --truncate-table sourcesubcategories
+	poetry run python dbupdate.py --db internet.db --truncate-table domains
 
 zip:
 	zip $(ARCHIVE_NAME) $(SOURCE_FILE)
