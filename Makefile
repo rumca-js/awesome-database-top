@@ -37,16 +37,21 @@ server:
 summary: lists
 	poetry run python dbanalyzer.py --tables --db $(SOURCE_FILE)
 
-lists: list-youtube list-github list-github-ai list-reddit list-rss-youtube list-awesome-links list-ai
-list-youtube:
-	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/youtube.json
+lists: list-github list-github-ai list-reddit list-youtube list-rss-youtube list-rss-youtube-links list-awesome-links list-ai
+
 list-github:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/*" --order-by page_rating_votes --order-by "social__stars" --desc > lists/github.links
 list-reddit:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://reddit.com/r/*" --order-by page_rating_votes --order-by "social__followers_count" --desc > lists/reddit.links
 
+list-youtube:
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/youtube.json
+
 list-rss-youtube:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --title --social --tags --rss  --order-by page_rating_votes --order-by "social__followers_count" --desc --json > lists/rss_youtube.json
+
+list-rss-youtube-links:
+	poetry run python ./dbanalyzer.py --db internet.db --search "link=*youtube.com/channel*" --rss --order-by page_rating_votes --order-by "social__followers_count" --desc > lists/rss_youtube.links
 
 list-github-ai:
 	poetry run python ./dbanalyzer.py --db internet.db --search "link=*https://github.com/* & tags__tag=*artificial intel*" --order-by "social__stars" --desc > lists/github_ai.links
