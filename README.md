@@ -8,7 +8,7 @@ Provides:
 
 Provides lists of links
  - [awesome links](lists/awesome.links)
- - [GitHub proejcts](lists/github.links)
+ - [GitHub projects](lists/github.links)
  - [GitHub AI projects](lists/github_ai.links)
  - [Reddit channels](lists/reddit.links)
  - [YouTube channels](lists/youtube.json)
@@ -28,23 +28,23 @@ backgroundjobhistory, count: 0
 blockentry, count: 0
 blockentrylist, count: 28
 browser, count: 0
-compactedtags, count: 4622
+compactedtags, count: 4643
 configurationentry, count: 1
 credentials, count: 0
 dataexport, count: 0
 domains, count: 0
-entrycompactedtags, count: 20199
+entrycompactedtags, count: 20280
 entryrules, count: 16
-entrytransitionhistory, count: 1753
-entryvisithistory, count: 1611
+entrytransitionhistory, count: 1947
+entryvisithistory, count: 1687
 gateway, count: 82
 keywords, count: 0
-linkdatamodel, count: 49693
+linkdatamodel, count: 49829
 modelfiles, count: 0
 readlater, count: 0
 searchhistory, count: 0
 searchview, count: 13
-socialdata, count: 36356
+socialdata, count: 36422
 sourcecategories, count: 0
 sourcedatamodel, count: 0
 sourceoperationaldata, count: 0
@@ -58,7 +58,6 @@ userentrytransitionhistory, count: 0
 userentryvisithistory, count: 0
 usersearchhistory, count: 0
 usertags, count: 0
-uservotes, count: 0
 ```
 
 # Other awesome databases
